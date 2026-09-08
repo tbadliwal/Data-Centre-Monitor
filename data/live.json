@@ -1,15 +1,269 @@
 {
   "meta": {
-    "generated_at": null,
-    "generated_at_display": "Not refreshed yet",
+    "generated_at": "2026-09-08T21:24:08.522177+00:00",
+    "generated_at_display": "Sep. 08, 2026 21:24 UTC",
     "lookback_days": 15,
     "stale": true,
-    "source": "GDELT DOC 2.0 API via scheduled server-side job"
+    "source": "GDELT DOC 2.0 API via scheduled server-side job",
+    "failed_feeds": [
+      "California",
+      "NATIONAL",
+      "Colorado",
+      "Delaware",
+      "Connecticut",
+      "Arizona",
+      "Alabama",
+      "Arkansas",
+      "Alaska",
+      "Florida",
+      "Georgia",
+      "Idaho",
+      "Hawaii",
+      "Louisiana",
+      "Indiana",
+      "Kentucky",
+      "Iowa",
+      "Maine",
+      "Kansas",
+      "Illinois",
+      "Maryland",
+      "Michigan",
+      "Massachusetts",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Nebraska",
+      "Montana",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "North Carolina",
+      "New Mexico",
+      "New York",
+      "Ohio",
+      "North Dakota",
+      "Oregon",
+      "Oklahoma",
+      "Pennsylvania",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Washington",
+      "Virginia",
+      "Vermont",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ]
   },
   "national": {
     "articles": [],
     "top_states": [],
     "top_themes": []
   },
-  "states": {}
+  "states": {
+    "Alabama": {
+      "articles": [],
+      "stale": true
+    },
+    "Alaska": {
+      "articles": [],
+      "stale": true
+    },
+    "Arizona": {
+      "articles": [],
+      "stale": true
+    },
+    "Arkansas": {
+      "articles": [],
+      "stale": true
+    },
+    "California": {
+      "articles": [],
+      "stale": true
+    },
+    "Colorado": {
+      "articles": [],
+      "stale": true
+    },
+    "Connecticut": {
+      "articles": [],
+      "stale": true
+    },
+    "Delaware": {
+      "articles": [],
+      "stale": true
+    },
+    "Florida": {
+      "articles": [],
+      "stale": true
+    },
+    "Georgia": {
+      "articles": [],
+      "stale": true
+    },
+    "Hawaii": {
+      "articles": [],
+      "stale": true
+    },
+    "Idaho": {
+      "articles": [],
+      "stale": true
+    },
+    "Illinois": {
+      "articles": [],
+      "stale": true
+    },
+    "Indiana": {
+      "articles": [],
+      "stale": true
+    },
+    "Iowa": {
+      "articles": [],
+      "stale": true
+    },
+    "Kansas": {
+      "articles": [],
+      "stale": true
+    },
+    "Kentucky": {
+      "articles": [],
+      "stale": true
+    },
+    "Louisiana": {
+      "articles": [],
+      "stale": true
+    },
+    "Maine": {
+      "articles": [],
+      "stale": true
+    },
+    "Maryland": {
+      "articles": [],
+      "stale": true
+    },
+    "Massachusetts": {
+      "articles": [],
+      "stale": true
+    },
+    "Michigan": {
+      "articles": [],
+      "stale": true
+    },
+    "Minnesota": {
+      "articles": [],
+      "stale": true
+    },
+    "Mississippi": {
+      "articles": [],
+      "stale": true
+    },
+    "Missouri": {
+      "articles": [],
+      "stale": true
+    },
+    "Montana": {
+      "articles": [],
+      "stale": true
+    },
+    "Nebraska": {
+      "articles": [],
+      "stale": true
+    },
+    "Nevada": {
+      "articles": [],
+      "stale": true
+    },
+    "New Hampshire": {
+      "articles": [],
+      "stale": true
+    },
+    "New Jersey": {
+      "articles": [],
+      "stale": true
+    },
+    "New Mexico": {
+      "articles": [],
+      "stale": true
+    },
+    "New York": {
+      "articles": [],
+      "stale": true
+    },
+    "North Carolina": {
+      "articles": [],
+      "stale": true
+    },
+    "North Dakota": {
+      "articles": [],
+      "stale": true
+    },
+    "Ohio": {
+      "articles": [],
+      "stale": true
+    },
+    "Oklahoma": {
+      "articles": [],
+      "stale": true
+    },
+    "Oregon": {
+      "articles": [],
+      "stale": true
+    },
+    "Pennsylvania": {
+      "articles": [],
+      "stale": true
+    },
+    "Rhode Island": {
+      "articles": [],
+      "stale": true
+    },
+    "South Carolina": {
+      "articles": [],
+      "stale": true
+    },
+    "South Dakota": {
+      "articles": [],
+      "stale": true
+    },
+    "Tennessee": {
+      "articles": [],
+      "stale": true
+    },
+    "Texas": {
+      "articles": [],
+      "stale": true
+    },
+    "Utah": {
+      "articles": [],
+      "stale": true
+    },
+    "Vermont": {
+      "articles": [],
+      "stale": true
+    },
+    "Virginia": {
+      "articles": [],
+      "stale": true
+    },
+    "Washington": {
+      "articles": [],
+      "stale": true
+    },
+    "West Virginia": {
+      "articles": [],
+      "stale": true
+    },
+    "Wisconsin": {
+      "articles": [],
+      "stale": true
+    },
+    "Wyoming": {
+      "articles": [],
+      "stale": true
+    }
+  }
 }
