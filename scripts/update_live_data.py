@@ -1,35 +1,41 @@
 #!/usr/bin/env python3
-"""Rate-limited scheduled refresh for the Davis Data Center Monitor.
-
-Designed for GitHub Actions + GDELT DOC 2.0.
-- Queries NATIONAL + all 50 states sequentially.
-- Enforces a conservative minimum interval between requests to avoid HTTP 429s.
-- Honors Retry-After when present and uses exponential backoff.
-- Preserves the last-good state feed when a request fails.
-- Prints state-by-state progress in GitHub Actions logs.
 """
+Davis Data Center Monitor — resilient live-news updater.
+
+Primary source: Google News RSS search
+Fallback source: Bing News RSS search
+
+Why RSS instead of GDELT:
+- GitHub-hosted runners can inherit shared-IP rate limits from GDELT.
+- RSS endpoints are simpler for scheduled server-side discovery.
+- The script preserves the last-good feed whenever a source fails.
+
+This remains a DISCOVERY layer, not the verified regulatory record.
+"""
+
 from __future__ import annotations
 
+import html
 import json
 import re
 import time
+import xml.etree.ElementTree as ET
 from collections import Counter
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlencode
+from urllib.parse import quote_plus, urlparse
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "live.json"
-API = "https://api.gdeltproject.org/api/v2/doc/doc"
 
-# GDELT is sensitive to bursty traffic. Keep this deliberately conservative.
-MIN_REQUEST_INTERVAL = 6.5  # seconds between starts of API requests
+LOOKBACK_DAYS = 15
 REQUEST_TIMEOUT = 20
-MAX_ATTEMPTS = 3
-BACKOFF_BASE = 12  # seconds; grows 12, 24, 48 on retries
-MAX_RECORDS = 75
+MIN_REQUEST_INTERVAL = 2.25
+MAX_ATTEMPTS = 2
+MAX_ARTICLES = 8
 
 STATES = [
     "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut","Delaware","Florida","Georgia",
@@ -41,25 +47,27 @@ STATES = [
 ]
 
 SIGNALS = [
-    ("Pause / Ban", re.compile(r"moratorium|pause|ban|freeze|halt", re.I)),
-    ("Power", re.compile(r"power|electric|grid|utility|interconnection|transmission|ratepayer|tariff", re.I)),
-    ("Water", re.compile(r"water|aquifer|groundwater|cooling", re.I)),
-    ("Permitting", re.compile(r"permit|zoning|land use|setback|hearing", re.I)),
-    ("Economics", re.compile(r"tax|incentive|cost allocation|infrastructure cost|community benefit", re.I)),
-    ("Politics", re.compile(r"governor|mayor|attorney general|council|commission|senator|politic", re.I)),
-    ("Litigation", re.compile(r"lawsuit|litigation|court", re.I)),
-    ("Project", re.compile(r"withdraw|reject|approval|project", re.I)),
+    ("Pause / Ban", re.compile(r"\bmoratorium\b|\bpause\b|\bban\b|\bfreeze\b|\bhalt\b", re.I)),
+    ("Power", re.compile(r"\bpower\b|\belectric(?:ity)?\b|\bgrid\b|\butility\b|\binterconnection\b|\btransmission\b|\bratepayer\b|\btariff\b", re.I)),
+    ("Water", re.compile(r"\bwater\b|\baquifer\b|\bgroundwater\b|\bcooling\b", re.I)),
+    ("Permitting", re.compile(r"\bpermit(?:ting)?\b|\bzoning\b|\bland use\b|\bsetback\b|\bhearing\b", re.I)),
+    ("Economics", re.compile(r"\btax\b|\bincentive\b|\bcost allocation\b|\binfrastructure cost\b|\bcommunity benefit\b", re.I)),
+    ("Politics", re.compile(r"\bgovernor\b|\bmayor\b|\battorney general\b|\bcouncil\b|\bcommission\b|\bsenator\b|\bpolitic", re.I)),
+    ("Litigation", re.compile(r"\blawsuit\b|\blitigation\b|\bcourt\b", re.I)),
+    ("Project", re.compile(r"\bwithdraw|\breject|\bapproval\b|\bproject\b", re.I)),
 ]
+
 BAD_TITLE = re.compile(
-    r"stock|shares|earnings|nasdaq|dow|market today|price target|investor|portfolio|cryptocurrency|bitcoin|chip stocks|nvidia",
+    r"\bstock\b|\bshares\b|\bearnings\b|\bnasdaq\b|\bdow\b|\bprice target\b|\binvestor\b|\bportfolio\b|"
+    r"\bcryptocurrency\b|\bbitcoin\b|\bnvidia\b|\bchip stocks\b",
     re.I,
 )
-BAD_DOMAIN = re.compile(
-    r"prnewswire|globenewswire|businesswire|stock\.|marketscreener|benzinga|seekingalpha",
+BAD_SOURCE = re.compile(
+    r"prnewswire|globenewswire|businesswire|marketscreener|benzinga|seekingalpha",
     re.I,
 )
 
-_last_request_started = 0.0
+_last_request = 0.0
 
 
 def load_old():
@@ -69,174 +77,215 @@ def load_old():
         return {"meta": {}, "national": {"articles": []}, "states": {}}
 
 
-def wait_for_rate_limit():
-    global _last_request_started
-    elapsed = time.monotonic() - _last_request_started
-    if _last_request_started and elapsed < MIN_REQUEST_INTERVAL:
+def wait_gap():
+    global _last_request
+    elapsed = time.monotonic() - _last_request
+    if _last_request and elapsed < MIN_REQUEST_INTERVAL:
         time.sleep(MIN_REQUEST_INTERVAL - elapsed)
-    _last_request_started = time.monotonic()
+    _last_request = time.monotonic()
 
 
-def http_json(params):
-    url = API + "?" + urlencode(params)
-    last_error = None
-
+def request_bytes(url: str) -> bytes:
+    last = None
     for attempt in range(1, MAX_ATTEMPTS + 1):
-        wait_for_rate_limit()
+        wait_gap()
         try:
             req = Request(
                 url,
                 headers={
-                    "User-Agent": "DavisDataCenterMonitor/3.0 (public-policy research; GitHub Actions)",
-                    "Accept": "application/json,text/plain,*/*",
+                    "User-Agent": "Mozilla/5.0 (compatible; DavisDataCenterMonitor/4.0; +https://github.com/)",
+                    "Accept": "application/rss+xml, application/xml, text/xml, */*",
                 },
             )
             with urlopen(req, timeout=REQUEST_TIMEOUT) as r:
-                body = r.read().decode("utf-8", "replace").strip()
-                if not body:
-                    raise ValueError("empty response body")
-                return json.loads(body)
-
-        except HTTPError as e:
-            last_error = e
-            if e.code == 429:
-                retry_after = e.headers.get("Retry-After")
-                try:
-                    delay = max(float(retry_after), BACKOFF_BASE * (2 ** (attempt - 1))) if retry_after else BACKOFF_BASE * (2 ** (attempt - 1))
-                except Exception:
-                    delay = BACKOFF_BASE * (2 ** (attempt - 1))
-                if attempt < MAX_ATTEMPTS:
-                    print(f"    HTTP 429; backing off {delay:.0f}s before retry {attempt + 1}/{MAX_ATTEMPTS}", flush=True)
-                    time.sleep(delay)
-                    continue
-            raise
-
-        except (URLError, TimeoutError, json.JSONDecodeError, ValueError) as e:
-            last_error = e
+                return r.read()
+        except (HTTPError, URLError, TimeoutError) as e:
+            last = e
             if attempt < MAX_ATTEMPTS:
-                delay = BACKOFF_BASE * (2 ** (attempt - 1))
-                print(f"    {type(e).__name__}; backing off {delay:.0f}s before retry {attempt + 1}/{MAX_ATTEMPTS}", flush=True)
+                delay = 8 * attempt
+                print(f"    {type(e).__name__}: {e}; retrying in {delay}s", flush=True)
                 time.sleep(delay)
-                continue
-            raise
-
-    raise last_error
+    raise last
 
 
-def query(state=None):
-    q = '"data center"'
-    if state:
-        q += f' "{state}"'
-    q += (
-        " (moratorium OR zoning OR permit OR legislation OR regulator OR utility OR electricity OR water OR tariff "
-        "OR interconnection OR ratepayer OR governor OR mayor OR county OR commission OR lawsuit OR incentive OR approval "
-        "OR rejected OR withdraw)"
+def clean_text(s: str | None) -> str:
+    if not s:
+        return ""
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = html.unescape(s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def parse_date(s: str | None) -> str | None:
+    if not s:
+        return None
+    try:
+        dt = parsedate_to_datetime(s)
+        if not dt.tzinfo:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).isoformat()
+    except Exception:
+        return s
+
+
+def domain_from_url(url: str | None) -> str:
+    try:
+        return urlparse(url or "").netloc.lower().removeprefix("www.")
+    except Exception:
+        return ""
+
+
+def parse_rss(xml_bytes: bytes, provider: str):
+    root = ET.fromstring(xml_bytes)
+    items = []
+    for item in root.findall(".//item"):
+        title = clean_text(item.findtext("title"))
+        link = clean_text(item.findtext("link"))
+        desc = clean_text(item.findtext("description"))
+        pub = parse_date(item.findtext("pubDate"))
+
+        source_el = item.find("source")
+        source_name = clean_text(source_el.text if source_el is not None else "")
+        source_url = source_el.attrib.get("url", "") if source_el is not None else ""
+        domain = domain_from_url(source_url) or domain_from_url(link) or source_name.lower()
+
+        items.append({
+            "title": title,
+            "url": link,
+            "description": desc,
+            "domain": domain,
+            "publisher": source_name,
+            "seendate": pub,
+            "provider": provider,
+        })
+    return items
+
+
+def google_news_url(state: str | None) -> str:
+    geo = f' "{state}"' if state else ""
+    q = (
+        f'"data center"{geo} '
+        '(moratorium OR zoning OR permit OR permitting OR utility OR electricity OR power OR water OR tariff '
+        'OR interconnection OR ratepayer OR governor OR mayor OR county OR commission OR lawsuit OR incentive '
+        f'OR approval OR rejected OR withdraw) when:{LOOKBACK_DAYS}d'
     )
-    return http_json(
-        {
-            "query": q,
-            "mode": "artlist",
-            "maxrecords": str(MAX_RECORDS),
-            "timespan": "15d",
-            "sort": "datedesc",
-            "format": "json",
-        }
+    return (
+        "https://news.google.com/rss/search?q=" + quote_plus(q) +
+        "&hl=en-US&gl=US&ceid=US:en"
     )
 
 
-def ascii_ratio(s):
-    return 1 if not s else sum(ord(c) < 128 for c in s) / len(s)
+def bing_news_url(state: str | None) -> str:
+    geo = f' "{state}"' if state else ""
+    q = (
+        f'"data center"{geo} '
+        '(moratorium OR zoning OR permit OR utility OR power OR water OR tariff OR interconnection '
+        'OR governor OR county OR lawsuit OR incentive)'
+    )
+    return (
+        "https://www.bing.com/news/search?q=" + quote_plus(q) +
+        "&format=rss&setlang=en-us&cc=us"
+    )
 
 
-def score(a, state=None):
-    title = (a.get("title") or "").strip()
-    dom = (a.get("domain") or "").lower()
-    lang = (a.get("language") or "").lower()
-    country = (a.get("sourcecountry") or "").lower()
-    if not title or ascii_ratio(title) < 0.92:
-        return -99
-    if lang and lang != "english":
-        return -99
-    if country and country not in ("united states", "us"):
-        return -99
-    if BAD_TITLE.search(title) or BAD_DOMAIN.search(dom):
-        return -99
-
-    low = title.lower()
-    sc = 5 if re.search(r"data[ -]?cent(er|re)s?", low) else -3
-    if state and state.lower() in low:
-        sc += 3
-    sc += 1.6 * sum(bool(rx.search(title)) for _, rx in SIGNALS)
-    if ".gov" in dom:
-        sc += 5
-    if dom in ("reuters.com", "apnews.com") or dom.endswith(".reuters.com"):
-        sc += 4
-    if re.search(
-        r"governor|legislature|commission|council|county|utility|permit|moratorium|zoning|ratepayer|water|power|tariff|interconnection",
-        title,
-        re.I,
+def fetch_feed(state: str | None):
+    errors = []
+    for provider, url in (
+        ("Google News RSS", google_news_url(state)),
+        ("Bing News RSS", bing_news_url(state)),
     ):
-        sc += 2
-    return sc
+        try:
+            return parse_rss(request_bytes(url), provider), provider, None
+        except Exception as e:
+            errors.append(f"{provider}: {type(e).__name__}: {e}")
+    return None, None, " | ".join(errors)
 
 
 def normalize(s):
-    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]", " ", s.lower())).strip()
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]", " ", (s or "").lower())).strip()
 
 
-def clean(raw, state=None):
-    candidates = []
-    for a in raw.get("articles", []):
-        sc = score(a, state)
+def article_score(a, state=None):
+    title = a.get("title", "")
+    desc = a.get("description", "")
+    blob = f"{title} {desc}"
+    source_blob = f"{a.get('domain','')} {a.get('publisher','')}"
+
+    if not title or BAD_TITLE.search(title) or BAD_SOURCE.search(source_blob):
+        return -99
+
+    sc = 0
+    if re.search(r"data[ -]?cent(?:er|re)s?", blob, re.I):
+        sc += 5
+    else:
+        return -99
+
+    if state and state.lower() in blob.lower():
+        sc += 2
+
+    tags = [name for name, rx in SIGNALS if rx.search(blob)]
+    sc += 1.5 * len(tags)
+
+    if re.search(r"\.gov\b|government|legislature|commission|council|county|utility|permit|moratorium|zoning|ratepayer|water|power|tariff|interconnection", blob, re.I):
+        sc += 2
+
+    publisher = (a.get("publisher") or "").lower()
+    domain = (a.get("domain") or "").lower()
+    if "reuters" in publisher or "associated press" in publisher or "ap news" in publisher or "reuters" in domain or "apnews" in domain:
+        sc += 3
+
+    return sc
+
+
+def article_tier(a):
+    domain = (a.get("domain") or "").lower()
+    pub = (a.get("publisher") or "").lower()
+
+    if ".gov" in domain or domain.endswith(".gov"):
+        return "Primary source"
+    if "reuters" in domain or "reuters" in pub or "apnews" in domain or "associated press" in pub or "ap news" in pub:
+        return "Credible reporting"
+    return "Discovery"
+
+
+def clean_articles(raw, state=None):
+    scored = []
+    for a in raw or []:
+        sc = article_score(a, state)
         if sc < 6:
             continue
-        title = (a.get("title") or "").strip()
-        n = normalize(title)
-        if any(n == x["_n"] or n in x["_n"] or x["_n"] in n for x in candidates):
+
+        blob = f"{a.get('title','')} {a.get('description','')}"
+        tags = [name for name, rx in SIGNALS if rx.search(blob)][:4]
+        a = dict(a)
+        a["score"] = round(sc, 1)
+        a["tags"] = tags
+        a["tier"] = article_tier(a)
+        a["date_display"] = a.get("seendate")
+        scored.append(a)
+
+    scored.sort(key=lambda x: (-x["score"], x.get("seendate") or ""))
+
+    out = []
+    seen = []
+    for a in scored:
+        n = normalize(a["title"])
+        if any(n == x or n in x or x in n for x in seen):
             continue
-        tags = [name for name, rx in SIGNALS if rx.search(title)][:4]
-        dom = (a.get("domain") or "").lower()
-        tier = (
-            "Primary source"
-            if ".gov" in dom
-            else ("Credible reporting" if ("reuters.com" in dom or "apnews.com" in dom) else "Discovery")
-        )
-        candidates.append(
-            {
-                "_n": n,
-                "title": title,
-                "url": a.get("url"),
-                "domain": a.get("domain"),
-                "seendate": a.get("seendate"),
-                "date_display": a.get("seendate"),
-                "tier": tier,
-                "tags": tags,
-                "score": round(sc, 1),
-            }
-        )
-        if len(candidates) >= 8:
+        seen.append(n)
+        a.pop("description", None)
+        out.append(a)
+        if len(out) >= MAX_ARTICLES:
             break
-    for a in candidates:
-        a.pop("_n", None)
-    return candidates
+    return out
 
 
-def infer_state(title):
-    lo = title.lower()
+def infer_state(text):
+    lo = (text or "").lower()
     for s in STATES:
         if s.lower() in lo:
             return s
     return None
-
-
-def fetch_one(state):
-    label = state or "NATIONAL"
-    started = time.monotonic()
-    try:
-        arts = clean(query(state), state)
-        return arts, None, time.monotonic() - started
-    except Exception as e:
-        return None, f"{type(e).__name__}: {e}", time.monotonic() - started
 
 
 def main():
@@ -249,49 +298,57 @@ def main():
         "meta": {
             "generated_at": stamp,
             "generated_at_display": display,
-            "lookback_days": 15,
+            "lookback_days": LOOKBACK_DAYS,
             "stale": False,
-            "source": "GDELT DOC 2.0 API via scheduled rate-limited server-side job",
+            "source": "Google News RSS with Bing News RSS fallback via scheduled GitHub Actions job",
         },
         "national": {},
         "states": {},
     }
 
-    failures = []
     jobs = [None] + STATES
+    failures = []
     results = {}
 
-    est_minutes = (len(jobs) * MIN_REQUEST_INTERVAL) / 60
     print(
-        f"Starting {len(jobs)} feeds sequentially; min_interval={MIN_REQUEST_INTERVAL}s; "
-        f"timeout={REQUEST_TIMEOUT}s; attempts={MAX_ATTEMPTS}; baseline≈{est_minutes:.1f} min",
+        f"Starting {len(jobs)} discovery feeds; primary=Google News RSS; "
+        f"fallback=Bing News RSS; min_interval={MIN_REQUEST_INTERVAL}s",
         flush=True,
     )
 
-    for i, state in enumerate(jobs, start=1):
+    for i, state in enumerate(jobs, 1):
         label = state or "NATIONAL"
-        arts, err, secs = fetch_one(state)
-        results[state] = (arts, err)
-        if err:
-            failures.append(label)
-            print(f"[{i:02d}/{len(jobs)}] {label}: FAIL after {secs:.1f}s — {err}", flush=True)
-        else:
-            print(f"[{i:02d}/{len(jobs)}] {label}: OK {len(arts)} articles in {secs:.1f}s", flush=True)
+        started = time.monotonic()
+        raw, provider, err = fetch_feed(state)
 
-    national_arts, national_err = results.get(None, (None, "missing"))
+        if err:
+            results[state] = (None, None, err)
+            failures.append(label)
+            print(f"[{i:02d}/{len(jobs)}] {label}: FAIL — {err}", flush=True)
+            continue
+
+        arts = clean_articles(raw, state)
+        results[state] = (arts, provider, None)
+        secs = time.monotonic() - started
+        print(f"[{i:02d}/{len(jobs)}] {label}: OK {len(arts)} articles via {provider} in {secs:.1f}s", flush=True)
+
+    national_arts, national_provider, national_err = results.get(None, (None, None, "missing"))
     if national_err or national_arts is None:
         out["national"] = old.get("national", {"articles": []})
     else:
-        state_counts = Counter(filter(None, (infer_state(a["title"]) for a in national_arts)))
-        themes = Counter(t for a in national_arts for t in a["tags"])
+        state_counts = Counter(
+            filter(None, (infer_state((a.get("title") or "") + " " + (a.get("publisher") or "")) for a in national_arts))
+        )
+        themes = Counter(t for a in national_arts for t in a.get("tags", []))
         out["national"] = {
             "articles": national_arts,
             "top_states": [x for x, _ in state_counts.most_common(5)],
             "top_themes": [x for x, _ in themes.most_common(4)],
+            "provider": national_provider,
         }
 
     for state in STATES:
-        arts, err = results.get(state, (None, "missing"))
+        arts, provider, err = results.get(state, (None, None, "missing"))
         if err or arts is None:
             prev = dict(old.get("states", {}).get(state, {"articles": []}))
             prev["stale"] = True
@@ -301,6 +358,7 @@ def main():
                 "articles": arts,
                 "refreshed_at": stamp,
                 "refreshed_at_display": display,
+                "provider": provider,
                 "stale": False,
             }
 
@@ -310,10 +368,13 @@ def main():
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(out, indent=2, ensure_ascii=False))
+
     print(
-        f"Wrote {OUT}; successful_feeds={len(jobs)-len(failures)}; failed_feeds={len(failures)}",
+        f"Wrote {OUT}; successful_feeds={len(jobs)-len(failures)}; "
+        f"failed_feeds={len(failures)}",
         flush=True,
     )
+
     return 0
 
 
