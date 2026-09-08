@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "generated_at": null,
+    "generated_at_display": "Not refreshed yet",
+    "lookback_days": 15,
+    "stale": true,
+    "source": "GDELT DOC 2.0 API via scheduled server-side job"
+  },
+  "national": {
+    "articles": [],
+    "top_states": [],
+    "top_themes": []
+  },
+  "states": {}
+}
