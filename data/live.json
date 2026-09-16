@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T16:52:15.573845+00:00",
-    "generated_at_display": "Sep. 16, 2026 16:52 UTC",
+    "generated_at": "2026-09-16T21:16:48.062669+00:00",
+    "generated_at_display": "Sep. 16, 2026 21:16 UTC",
     "lookback_days": 15,
     "stale": false,
     "source": "Google News RSS with Bing News RSS fallback via scheduled GitHub Actions job",
@@ -40,25 +40,10 @@
         "date_display": "2026-09-15T23:32:00+00:00"
       },
       {
-        "title": "Orange County supports pressing pause on data centers to develop new rules - Florida Politics",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmFNTkIwdXdlMDlIYnY2ZS15dTMzcWtlVjhmRnhYN2VDVHlZclVlVDlVUHRHUy05VjM3UjVIa2tsTlQ3R2VhNkw3Z3hoRzdBdF9EN0FNYU1YcUhRME4tRHFndmxaVktSZ2JuOW0xcHlwNUExazdqcW1rbEtzbWg3bjhTdG9BZlNaYTBrSlZ0SW84SDBOODFQY282b3V3czVJb0NreGZfaDdZNkp3bUZpOTE0Y0RJcVp3Y3hV?oc=5",
-        "domain": "floridapolitics.com",
-        "publisher": "Florida Politics",
-        "seendate": "2026-09-16T08:55:57+00:00",
-        "provider": "Google News RSS",
-        "score": 10.0,
-        "tags": [
-          "Pause / Ban",
-          "Politics"
-        ],
-        "tier": "Discovery",
-        "date_display": "2026-09-16T08:55:57+00:00"
-      },
-      {
-        "title": "How much water and power do data centers really use? - thenevadaindependent.com",
+        "title": "How much water and power do data centers really use? - The Nevada Independent",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZHdKZUladW5WOXB5RlBEcURUTnppamRTR0ZDN3dIZjdOZk5Pd1JXSlNRNWFQWU1Ta1l5OWFjM2VDamJtaFlWYkxCWG9rOXJtbVh2b2c2d29fTTZNcHR2QVJTTkZRdWdNbTc3WlJyb1JLUEtsSlpNRzE3cjBsaWFpZjhiS204OXZGSHRtcTk4UDgxSGdBNHpB?oc=5",
         "domain": "thenevadaindependent.com",
-        "publisher": "thenevadaindependent.com",
+        "publisher": "The Nevada Independent",
         "seendate": "2026-09-16T09:00:00+00:00",
         "provider": "Google News RSS",
         "score": 10.0,
@@ -68,36 +53,6 @@
         ],
         "tier": "Discovery",
         "date_display": "2026-09-16T09:00:00+00:00"
-      },
-      {
-        "title": "Poway City Council unanimously advances AI data center ban - cbs8.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOejJCYjBvTURxWUhKR25FemRJQ0ZQY20tQmRCaEdENXEtU095amU4ZXZsRFRSUHZxNllobHF6WmJPODduem1GWGc5aWdLWW1MMjRjWGdMR19rRW80M0pJZUpyMV9fQTZ2RFN1bzV4QUNlR2hxamxMeTB1d3BoTGxpRzRiNFNkX2hkSUdTVV9CamI4TkNyOWtudGxIdlZpSHBsSkNjRDZCdjNQSm14djd0bGN3SEZrN0ZyVnZuaTZrT1BmUmxMNGQw?oc=5",
-        "domain": "cbs8.com",
-        "publisher": "cbs8.com",
-        "seendate": "2026-09-16T11:57:00+00:00",
-        "provider": "Google News RSS",
-        "score": 10.0,
-        "tags": [
-          "Pause / Ban",
-          "Politics"
-        ],
-        "tier": "Discovery",
-        "date_display": "2026-09-16T11:57:00+00:00"
-      },
-      {
-        "title": "Memphis City Council delays vote on data center moratorium ordinance - localmemphis.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZVF1OWF3LTRSRjNKM1pQNEhkM09HMnVSWmpoNUstUjdJb2FrNDRrbkdMelZwZzFGT21qc0RsM2NVM2R5WVVlVWg3VVV2V1RvbjdvMlV2UzRsTzBrYU82UXZEWTdFSXJYSnRNUDFxR0x4cGh5c1VKMHFpSEdUT0UxZHFFR0pTQkI3bkxqTUJuazBiUjA0R2IyampCZVVVV1Y4Mkg1WHhhb3laM2pId2VwNm16TmRZZ1JvT1Y0bDZDNzhFZ2o4YlVCcktsLWhhRWVUdnhrYU9BSzFWRWZsenEyWmxidzRxSTd3aFlr?oc=5",
-        "domain": "localmemphis.com",
-        "publisher": "localmemphis.com",
-        "seendate": "2026-09-16T13:34:00+00:00",
-        "provider": "Google News RSS",
-        "score": 10.0,
-        "tags": [
-          "Pause / Ban",
-          "Politics"
-        ],
-        "tier": "Discovery",
-        "date_display": "2026-09-16T13:34:00+00:00"
       },
       {
         "title": "Rapids hosting public hearing about permit for data center project - WSAW",
@@ -115,6 +70,21 @@
         "date_display": "2026-09-16T13:43:00+00:00"
       },
       {
+        "title": "Augusta commission approves data center zoning ordinance | Photos - The Augusta Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ0VxempEYUVRTWFfS2VnY0pnMHBfXzFxOFl0QzV4QkQ4b0ozUnAzcmV5UmVOMWwwd09GUHpGLV83TTB3dU9VM1R0Ul94UGFWTDAtYk5sYmVoMnRiS2ZtUGtNRU1iYWVqenVxRzNxdjFJUjZmcmZVNE5KTmFUa1ZkTm5oVFVwWVM1em12ei1PczJOZndzNTRudXRhalUwOUlVdUhLVEhyeXNHdjFPTXRueDRHWlNFemVwZm82TlNkTnAwN0VfRHdpVTZQdVZESUo2SUZiV0Voa3hha2lK?oc=5",
+        "domain": "augustachronicle.com",
+        "publisher": "The Augusta Chronicle",
+        "seendate": "2026-09-16T15:31:00+00:00",
+        "provider": "Google News RSS",
+        "score": 10.0,
+        "tags": [
+          "Permitting",
+          "Politics"
+        ],
+        "tier": "Discovery",
+        "date_display": "2026-09-16T15:31:00+00:00"
+      },
+      {
         "title": "Mayor Janet Cowell weighs in on proposed Raleigh data center moratorium (Video) - Raleigh News & Observer",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfeWo1alVCMV94S3R5eU1kdGJSQmRMUl9qbWFfSEx5blVlMkVEdWNGa0ItY1c3NDZCYUNJZ1dlUzVhLUVuQXlOdW9GYnZHRFpVM28xRS1SRk5UUGUySWJCV1NDbXBZZ2luNVZkclZ3?oc=5",
         "domain": "newsobserver.com",
@@ -128,17 +98,46 @@
         ],
         "tier": "Discovery",
         "date_display": "2026-09-16T16:13:39+00:00"
+      },
+      {
+        "title": "On the heels of Cary's adopted data center moratorium, Raleigh City Council will soon consider a six-month pause - WUNC News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWTRwS3dRS29Rc2JCSm9NRmRNVGhyMDBIQ28tYWg5M01XUVQ2OTNJTFpQdjIwUTlXYlJWa2xOQzFfRVRpa0hEN09zZFVpQkdaYVZDcmJqMlNRbnZQMk10b2M3SUpMX1c3djZwU2FnaFI5dGNZbnpMZExXOG9ULTBVdnJma0pTZw?oc=5",
+        "domain": "wunc.org",
+        "publisher": "WUNC News",
+        "seendate": "2026-09-16T16:40:00+00:00",
+        "provider": "Google News RSS",
+        "score": 10.0,
+        "tags": [
+          "Pause / Ban",
+          "Politics"
+        ],
+        "tier": "Discovery",
+        "date_display": "2026-09-16T16:40:00+00:00"
+      },
+      {
+        "title": "‘It's not the right fit’: Salem mayor urges denial of permit for data center - WGBH",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGFmbWg1YVNMclg4WmFNZnRuY2JNMThmblhsVVdNQjNLVEFlak0yVGU5eno0bV8yRlR2THdmN3hsd1VIcGhkVWJhRTlfSkJGcWJvdkdNQm9XQ2p5UXhZdzk4eVJsYWtmRWFGaFZXanYyM2J1cmZjUEtINmVrakxDMXVRZmF2c3M0Z2s5bVBqdER0LUF5QjZ6TmFtWVlPWXBOMlBnX2hxQ0diVEdYTmhYczVmMDlCUQ?oc=5",
+        "domain": "wgbh.org",
+        "publisher": "WGBH",
+        "seendate": "2026-09-16T17:33:36+00:00",
+        "provider": "Google News RSS",
+        "score": 10.0,
+        "tags": [
+          "Permitting",
+          "Politics"
+        ],
+        "tier": "Discovery",
+        "date_display": "2026-09-16T17:33:36+00:00"
       }
     ],
     "top_states": [
-      "Florida",
       "Nevada"
     ],
     "top_themes": [
-      "Pause / Ban",
       "Politics",
-      "Power",
-      "Project"
+      "Pause / Ban",
+      "Permitting",
+      "Power"
     ],
     "provider": "Google News RSS"
   },
@@ -207,10 +206,10 @@
           "date_display": "2026-09-08T16:06:14+00:00"
         },
         {
-          "title": "The City of Birmingham approves Alabama’s toughest zoning ordinance, establishing 20-point community protections for data center development - birminghamal.gov",
+          "title": "The City of Birmingham approves Alabama’s toughest zoning ordinance, establishing 20-point community protections for data center development - City of Birmingham, Alabama (.gov)",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRHJoWkdnWDZWVXJOeFgwSW5BTkdqbmZQQ1hESUx6blhBUktLejhHRGgzcGw4bUFnYUxIMVBtSGlaZ3VPMnhkN3BJZC1LdXRlZGZvMm5YaG5rTThJaVVrUFc1M01CYjNGdzVkTmozTF9nZzdmQ0xuZzRVUlRUYzdadU9jaUtfN1VkeURWY2p2RzY2c2pSR0MxbUlrZDlPLW5JSmFDWTQ3dWhOVjBoZUJPOXZNbzE2bWZUVnU5enp1d2ljRzBtVXhvbDFlOUdlQ1BqcF9neFZMeTVqMGJfV2QwQUdNd1F3eVVVZFRtcTVIZFcwZjg?oc=5",
           "domain": "birminghamal.gov",
-          "publisher": "birminghamal.gov",
+          "publisher": "City of Birmingham, Alabama (.gov)",
           "seendate": "2026-06-09T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -263,8 +262,8 @@
           "date_display": "2026-07-09T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -313,10 +312,10 @@
           "date_display": "2026-03-09T07:00:00+00:00"
         },
         {
-          "title": "The military wants to host data centers in Alaska, raising questions about whether there’s enough gas to power them - Anchorage Daily News",
+          "title": "The military wants to host data centers in Alaska, raising questions about whether there’s enough gas to power them - adn.com",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOamJ4R3FSemYxNHhVMk9PQUZlTlhtd0t5amtzV3pyVWNWSlVKWHdKRWpwZXBtcVBldDV4OE0zN3hPbTNxSkNFa0RERVVRUUVYNjBzVk5xY1YtcnNzRF9vempNQ0JuVjNMMU1GUXVDbENySEJEVnJYQm9JeVpFWEoyaWdmY3dxdTFnT0xYdFFCNC00VjYwZDVreW5obF93S3VyTHMxUGpTb2dMZnpfTHpURVotRGNnWlVtamQ1WEtEOTFPU3owc2dfNGI3Tl9ZNVJIUzg3Q0FFZmI3Tm1uV3hNNzZTblZFRHlQV2FSTHp2TE5nal83R2hRN3Zn?oc=5",
           "domain": "adn.com",
-          "publisher": "Anchorage Daily News",
+          "publisher": "adn.com",
           "seendate": "2026-05-05T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -384,8 +383,8 @@
           "date_display": "2025-07-28T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -408,10 +407,10 @@
           "date_display": "2026-08-31T07:00:00+00:00"
         },
         {
-          "title": "Arizona county advances 4-month halt on new data centers over water, power use - thecooldown.com",
+          "title": "Arizona county advances 4-month halt on new data centers over water, power use - The Cool Down",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWxMUXhHUmdzazFycUNuaXZOR01sY1ZKVzRXSkRTVzMyU3RWbHJqMUx0TmNRVHpMWDk3eGtUNXp3YXYtNkZoNVZtSE56WnBwVExiT3JWTHlObWk4cDhLR3labzJCb0FUUlJ1WFBIYWdKRGVQY1VJVjhjTmJUMlR2NEpJNm9CemFI?oc=5",
           "domain": "thecooldown.com",
-          "publisher": "thecooldown.com",
+          "publisher": "The Cool Down",
           "seendate": "2026-09-04T06:45:00+00:00",
           "provider": "Google News RSS",
           "score": 13.5,
@@ -440,10 +439,10 @@
           "date_display": "2026-09-08T07:00:00+00:00"
         },
         {
-          "title": "Arizona water officials approve wells tied to Project Blue data center - AZPM",
+          "title": "Arizona water officials approve wells tied to Project Blue data center - azpm.org",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZldGeV92NlUzXzY5c0tBem1LWDJyZW0wOGNEZHJORjh6b2V1NG9ib1l0SVBQR2d1ZG9GNWszOTFlVVB4YnQ2cVNuaU5POTFDUlJvZlh4b1Zxa1BDdl83VmlDZ241QmdEeEh1eGUyWXVmeDYtVWhHM2J0TG1EMExLcWdPRWxidlItd2Z0em80Wi0xd3NOb3E3a3NTZVVVMnJtV25N?oc=5",
           "domain": "azpm.org",
-          "publisher": "AZPM",
+          "publisher": "azpm.org",
           "seendate": "2026-05-28T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -500,23 +499,23 @@
           "date_display": "2026-08-15T07:00:00+00:00"
         },
         {
-          "title": "Mayes calls for Arizona data center pause amid energy costs, water concerns - KVOA",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORHM1WUZLdHI4TXN2U1Bjdmc0SGNFcDRtQnlFRHZQMnR4TnQxSEMwRktfUEpEUG5JUHp2TEwyeWl2dVFPNHB0RXJvdjFnNHVyS0ZxVVJSUzdMdDJCY2xvSUNRSm5JUlBUQ3VXaE5DU0cwY0dVTTF0ZnJBUjdUZDlCOVFqT21IeDNYdXRIdHNJWEQtSFdlYU5Jb3BmUzdJd01LVmFJTmtQZjI2ZXgzeUtWb1BGVnlET2RGLUNLdTZzdGM4alBTTEpKU25keEZsRHlfc0hhSW1NRXhIaGRSeDVUdENsZ2U5dEx4NlM0ZlVhVQ?oc=5",
-          "domain": "kvoa.com",
-          "publisher": "KVOA",
-          "seendate": "2026-08-31T20:56:00+00:00",
+          "title": "Kris Mayes calls for no new AI data centers as Arizona faces water, power crunch - Arizona Mirror",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWXhCbGhhb25rcm1JR3plMmFGNFMycW9xa0g2aF9ITWVPMF8xMEp3d1l2X1lrNG42ZjJBZFp1UDVjMG9jclJkNHVxUV8zNTJGQVZxcmFTaWJTbDlBTVg4dnlYZjJIa2l2azVEbmxyQlQ0RXY0RDdETDc3Qk1aNzZlbV9CN3pmT00zR0I4ME1YYk4yQ0EwSl80WTNMd1FrN0ZyMW83VHFn?oc=5",
+          "domain": "azmirror.com",
+          "publisher": "Arizona Mirror",
+          "seendate": "2026-08-31T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
           "tags": [
-            "Pause / Ban",
+            "Power",
             "Water"
           ],
           "tier": "Discovery",
-          "date_display": "2026-08-31T20:56:00+00:00"
+          "date_display": "2026-08-31T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -555,19 +554,20 @@
           "date_display": "2026-07-28T07:00:00+00:00"
         },
         {
-          "title": "Pulaski County Quorum Court passes ordinance to ban new data center permits for a year - The Arkansas Democrat-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEhQRkJla3JIajBZOFljdFhPclhzRm5BRlEzdnA2MjRnc3ZUUHlqWTVpSUZuLTVLMF9QNGJMWlpTeWdiSVZVUXo0Tlp0OVB2RTl4aEdFX29FUG5fcndWQU5CQ0prZ1pWcGt0VzVTS2s0TnlocElBb0dWcl9jUm1mTy1hVmhPRXluR1hMb1hnMDVMSm1PQW5DOGpSZkVjMUpCc1ZUYlc0cXFmd1FJWUNhOUFJQ2NJOEhkRG1rbTVhNXFwZ2ZoS3hEVEFGYzM4TE9y?oc=5",
-          "domain": "arkansasonline.com",
-          "publisher": "The Arkansas Democrat-Gazette",
-          "seendate": "2026-05-27T07:00:00+00:00",
+          "title": "Arkansas county rejects data center pause after residents told that court meeting 'isn't a participatory event' - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWhNQ3dBUkxhUkF4WTRxQUJRWkswb2F4QW1fUjl2RVJXQlI2OWpXMldHWEl6NGNmMVM0V3ZZLVdINENvRUl1RmhtSVhfMmZxNUNEaUoxU3RlajMwOHB2b21acXFJYXl5ZmRjX2pWam4yaWJ0SUZFLXppcEtNTnhKRzFxeDhpWkdCQWJqRzRTc1U5Nmc?oc=5",
+          "domain": "yahoo.com",
+          "publisher": "Yahoo",
+          "seendate": "2026-08-01T07:00:00+00:00",
           "provider": "Google News RSS",
-          "score": 12.0,
+          "score": 13.5,
           "tags": [
             "Pause / Ban",
-            "Litigation"
+            "Litigation",
+            "Project"
           ],
           "tier": "Discovery",
-          "date_display": "2026-05-27T07:00:00+00:00"
+          "date_display": "2026-08-01T07:00:00+00:00"
         },
         {
           "title": "Review of Pulaski County Quorum Court vote finds data center moratorium failed - The Arkansas Democrat-Gazette",
@@ -583,6 +583,21 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-05-28T07:00:00+00:00"
+        },
+        {
+          "title": "Weaker data center moratorium with AVAIO carve-out advances in Quorum Court - Arkansas Times",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmxSMjhBMTNvbVRKeFFMSkhnRFcwTm5oYTlrZ2F0dDZkS2d6RDgzaEhQbkJvZ2dEc1BSRDk4SjhGYTFZSktsRnpOelNZVGE3cU11aUdaNEYxQTJaSEhRQ2JscDUtYUpoSFhPbEpWREhqU0RkWUNQYlI3b21wejRTTG00UjBJR0NhRExUYl9ScTk4ckJtc2dISXV4X2ZKdVlBcEozUllnc0xHZkZNek91Z3FFTnU2Q0hNRC1qaV9B?oc=5",
+          "domain": "arktimes.com",
+          "publisher": "Arkansas Times",
+          "seendate": "2026-07-14T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 12.0,
+          "tags": [
+            "Pause / Ban",
+            "Litigation"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-07-14T07:00:00+00:00"
         },
         {
           "title": "Google Invests $526 Million in Arkansas Solar and Battery Project to Power Data Center - Deltaplex News",
@@ -614,10 +629,10 @@
           "date_display": "2026-05-12T07:00:00+00:00"
         },
         {
-          "title": "Little Rock Regional Chamber, Entergy Arkansas, Central Arkansas Water, and Little Rock Water Reclamation Authority announce resource site for data center facts - entergy.com",
+          "title": "Little Rock Regional Chamber, Entergy Arkansas, Central Arkansas Water, and Little Rock Water Reclamation Authority announce resource site for data center facts - Entergy",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MUVERVZzQ1ZwWDZVQVA1QW15eFk5bTRVbW52UDB0OW41anljcW5sM3Z6cllCdzNFNldrOU51NWI2RTR4VzIwNXIzWHlfSndrM3V1Slg1OHl2ekN5MlVhQ0p0QW83WUROblhLVExB?oc=5",
           "domain": "entergy.com",
-          "publisher": "entergy.com",
+          "publisher": "Entergy",
           "seendate": "2026-05-20T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -626,24 +641,10 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-05-20T07:00:00+00:00"
-        },
-        {
-          "title": "Arkansas’ most populous county approves data center moratorium, but with exemption - Little Rock Public Radio",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNW9SQlFLblh2RXpZRDdVWU9nOG9PMWJwLUJMV0dFemZVXzd3Rzc4dk1Ja3ZYTDB5QzFFRnllU2dQTVdWaTVjeXBJOElLQ3JOM2VMeW1jLVhLdFp6bENiQ2hOclZGUFpDaUR1bEYtdm5TQlJyMHJSREtRZldBWGFYdkQxdFpTNWdPc05XWXRLQ2ZZWDE1OWZiOXc3MVFORnFjeUdhZjllbzdfSVNjVndVeTJseEFDd2lCamlCekdTc2k5SkdKNkJtRVV5dlllcUh0eEpTQ1d4VEYybFE?oc=5",
-          "domain": "ualrpublicradio.org",
-          "publisher": "Little Rock Public Radio",
-          "seendate": "2026-05-27T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Pause / Ban"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-05-27T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -767,18 +768,18 @@
           "date_display": "2026-07-15T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
     "Colorado": {
       "articles": [
         {
-          "title": "Aurora City Council rejects data center moratorium, approves new rules, water regs - Sentinel Colorado",
+          "title": "Aurora City Council rejects data center moratorium, approves new rules, water regs - sentinelcolorado.com",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYjJpZmdidEdIczRJNVhNak5OdXNaOXoyb0xGTGdDdm9FSkVRYnZWR0E4VFQyV3pXRTNGczBScW9XUVc0aElkX0pxTkxOVGxIeVFIQVNTVkZIWFl4bzc5clpvUmthUVNmS0ZubmlUMmNkYzZjM3N2LVlhVHczd1ZkbDdxOHJqWjAzVkhkT2N1WFhCbUxmU1Y0TklSM1NrRVBuNXBoek9lWURuMlNlX3daSENvTWhEWjg?oc=5",
           "domain": "sentinelcolorado.com",
-          "publisher": "Sentinel Colorado",
+          "publisher": "sentinelcolorado.com",
           "seendate": "2026-08-10T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 15.0,
@@ -805,21 +806,6 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-06-15T07:00:00+00:00"
-        },
-        {
-          "title": "Colorado Springs Planning Commission denies appeals in ‘Project Taurus’ data center - KRDO",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2RtZ1R1TzFJQ2g0d3VJUVpiT19sTmNuV3d0Q3V4OVdWVnpLTnlqdUk1R0JzMjJZOGpkYm81VXl4UlJ0dmVHQzNTT0NrQzJjNzVucVc0VmQzcElUM1pmVFAxYXNsNXlvYUwyYzkyV0Q2OEljWlp5UXB2eTZvWDFscGUxY2gtSmdWTzJ6UUQzeEFiWmlJNXV3Mm4tT3c3UFdlZzZheHk4eEFZYUdJWXJMVlJKLVpuQQ?oc=5",
-          "domain": "krdo.com",
-          "publisher": "KRDO",
-          "seendate": "2026-07-23T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 12.0,
-          "tags": [
-            "Politics",
-            "Project"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-07-23T07:00:00+00:00"
         },
         {
           "title": "Planning Commission rejects appeals of proposed data center - Colorado Springs Gazette",
@@ -895,10 +881,25 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-08-11T07:00:00+00:00"
+        },
+        {
+          "title": "Global AI Clears Weld County, Colorado Zoning Hurdle, Project Could Be State's Largest Data Center - news.constructconnect.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc0hRQzhDS09MUkw3RWlHUHFGTnUtTGZ0c3E5OUJYT3JuYjdGaVUxWnl1d2JGRGpRX0lxREZXWmQzRkVTdkltVFR0Z3N3SFktY1lFSld5RWx1ZDFWWlh1cTFFek16NnMxeHhqc1lNYldabnpPUzhfYS1aWW9DZFJHMHFnMWZ6MGFJNlhlTlhtSG93YTctR1JpLWVZRG53MXRZdVpRSFd3Uk1laHNvakdlT3dVMmVRMTRubzZzRUxtRVZPNUpPQjNHN3FQdU1EMkp10gHQAUFVX3lxTFBzSFFDOENLT0xSTDdFaUdQcUZOdS1MZnRzcTk5QlhPcm5iN0ZpVTFaeXV3YkZEalFfSXFERldaZDNGRVN2SW1UVHRnc3dIWS1jWUVKV3lFbHVkMVZaWHVxMUV6TXo2czF4eGpzWU1iV1puek9TOF9hLVpZb0NkUkcwcWcxZnowYUk2WGVOWG1Ib3dhNy1HUmktZVlEbncxdFl1WlFIV3dSTWVoc29qR2VPd1UyZVExNG5vNnNFTG1FVk81Sk9CM0c3cVB1TUQySnU?oc=5",
+          "domain": "news.constructconnect.com",
+          "publisher": "news.constructconnect.com",
+          "seendate": "2026-09-16T18:15:57+00:00",
+          "provider": "Google News RSS",
+          "score": 12.0,
+          "tags": [
+            "Permitting",
+            "Project"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-09-16T18:15:57+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -989,46 +990,48 @@
           "date_display": "2025-02-19T08:00:00+00:00"
         },
         {
-          "title": "Ayotte opposes potential Bow data center, plans to propose statewide moratorium - Connecticut Public",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLTFCVXlILXVkbjEwcW1nVDZISlBzeVpHbzJVRHpCTllSNzIxN2t3bmFobnlocXlsbF9jWnhqM01xSnl4SW5HSUdVanJuNE55VGdNNjhKaXYyQXBrcC1EZ3lLbWlJaHczNVBEbE4tQVJwZ09DaDhJamFvM2NHZ3ZsbXBMc1JRWG12S3ZNajV4LVlzaFZ5NTJDcE5Zci00YmpaUDl1WXk3Q0JMTWFfQk1CeU5CcnlGd0xkUDFnaW5CdUozZHdCTDdUUQ?oc=5",
-          "domain": "ctpublic.org",
-          "publisher": "Connecticut Public",
-          "seendate": "2026-09-02T20:59:00+00:00",
+          "title": "A mega data center could drive AI, deliver billions to CT. Will politics and power worries doom it? - Hartford Courant",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUlsUmhrQlg2UUhNaVpCYmYwQTJzZUVuUVA3TWdJRUtEUWlncThva3JYV1FfUVVWamlHVUFJSGVvR3ZlNE4yN0JvVzFIRHdPM0dWaldjeDFaMnI2dzdRUU11SmNyeXM4dS1PbjBSSEg2TXB0YlprUFB3UDVBOWhUSEdEeWs2c2hRNmNUdnJ1d09ZNVZ0VUZpYUtrYS1rNVcteFY4Z0I3ZEw3bEVkb1NlNzNRRTlwQjFFc2JkdUJlcXVCMHI5cHhQb2NtbVY?oc=5",
+          "domain": "courant.com",
+          "publisher": "Hartford Courant",
+          "seendate": "2024-03-24T07:00:00+00:00",
           "provider": "Google News RSS",
-          "score": 10.5,
+          "score": 10.0,
           "tags": [
-            "Pause / Ban"
+            "Power",
+            "Politics"
           ],
           "tier": "Discovery",
-          "date_display": "2026-09-02T20:59:00+00:00"
+          "date_display": "2024-03-24T07:00:00+00:00"
         },
         {
-          "title": "Trumbull could become home to one of CT’s first AI data centers despite new 2-year moratorium - Connecticut Public",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUk8wVkpoajEzc2FfSk9EQnl5NXgxTTFwVFFaTnVIYk1HZVgza25fVElhM3FTSmp5WG5pSTRfX0JFaGV3RHItajNWdzN3d2hCczU2N0xFSkNJYXMxMkM5Ri1PUDY4MUp1M2lLbnRZMzVpUTlsUUxCY2NIMVhzdEcwdkRwMUN5d1czWEVHeVZtQjNQRjZPVUFXeVNreHpCLVQ1aWZtd21iWS1xeXYwU1c2SzZKbTNCbm43cExSQS11NGlCTVFXUFZMMW1OMmxaUQ?oc=5",
-          "domain": "ctpublic.org",
-          "publisher": "Connecticut Public",
-          "seendate": "2026-09-11T16:30:00+00:00",
+          "title": "East Lyme Zoning Commission Approves 3 Coastal Home Rebuilds, Forms Data Center - patch.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWGttVDhMZHU1MXcyQlh6NTE2Ylk3VHE2aVhvZWhLQld6NkM2c2xBYnRMblJDZDREb29sd0hEa0JyYU5DVjNwM1U5cGltczAtMHk4Ni1ERTRRdG56OVplOFFZbC1IanBIRE02TEMyc1VzSTZWUzBGOXpwTWtmclpRYVA4Q1BGcVUwckwwT1JNeVV0YXRLZk5NRHFBeHVLNy1IZGlSOXhNLW5KUHVQOU9yWVczZTNCRVRO?oc=5",
+          "domain": "patch.com",
+          "publisher": "patch.com",
+          "seendate": "2026-07-14T07:00:00+00:00",
           "provider": "Google News RSS",
-          "score": 10.5,
+          "score": 10.0,
           "tags": [
-            "Pause / Ban"
+            "Permitting",
+            "Politics"
           ],
           "tier": "Discovery",
-          "date_display": "2026-09-11T16:30:00+00:00"
+          "date_display": "2026-07-14T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
     "Delaware": {
       "articles": [
         {
-          "title": "Delaware city advances 18-month data center moratorium amid power, water, and land fears - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUdtdUd5QW9rbDd3a29xbmRiOTZlRHpCQjRtZFVtS2lndnFQeF8xc3ctQzhvNXl5M055RGF1dmdwblFHcmxRU2hGX2lMcWpPYVhIcHFjakpCb1dXNkVZR3hwSmFYTEJoUWl5V0JBcVdHYkVpZ3gySVZNeFlxMVNfNkl0THZkRlQ5ZFJKemd3?oc=5",
-          "domain": "yahoo.com",
-          "publisher": "Yahoo",
+          "title": "Delaware city advances 18-month data center moratorium amid power, water, and land fears - The Cool Down",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPODU4VHozaGpldUtUck1HUDZET21Fc0phUjVkVjNma296NEZBTXAyaUVfRDM0czBtOGlScEZDcjRxWThTRG5FNmVyMUFfNTV0VEJwYjZnSXM3UmlteTQ3SXQ3ejZoYmI3SGtwdUZiTkd4UFR2ZU0yc3doS253S3NkTExBQWhtX0VxYzhCTnhrN29qSURjWk4tT0toNA?oc=5",
+          "domain": "thecooldown.com",
+          "publisher": "The Cool Down",
           "seendate": "2026-08-20T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 13.5,
@@ -1039,6 +1042,21 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-08-20T07:00:00+00:00"
+        },
+        {
+          "title": "Data center water, power discussed in Sunbury - Delaware Gazette",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3lpOGFYREdGMHg2bTJXbTRscG9FSElvNlkySDNwZDlweUdVYzZDdWJ6Q2FuWTdDVS03b19mY3BUWEY4bjgza3YzeS05VVVnSFJfX1lKWHpNNFJCZHQycGVwMTBiMVduWVpDY2JmLVB2WlRadDBiam9lc0ZmUjFSc2JlOVNwOVZXcFhr?oc=5",
+          "domain": "delgazette.com",
+          "publisher": "Delaware Gazette",
+          "seendate": "2026-06-25T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 12.0,
+          "tags": [
+            "Power",
+            "Water"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-06-25T07:00:00+00:00"
         },
         {
           "title": "Delaware Governor Signs First-of-its-Kind Bill to Power Data Centers with Clean Energy - CleanTechnica",
@@ -1071,10 +1089,10 @@
           "date_display": "2026-09-07T14:15:11+00:00"
         },
         {
-          "title": "Pa. data centers: How lawmakers are responding, from electricity and water use to tax breaks - whyy.org",
+          "title": "Pa. data centers: How lawmakers are responding, from electricity and water use to tax breaks - WHYY",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ON0hKS0tiejN1YkxiNm5GM21GY0RWNGM5WXJvOWhoa2xKV1VYOXBTaGF0MXlfWU1FUmZhU3ZOWW91RkVwUUdIR3JMX1NxWjBGY0NhbU9KRG9UU1lEdGF6SGJxVTdFSnc?oc=5",
           "domain": "whyy.org",
-          "publisher": "whyy.org",
+          "publisher": "WHYY",
           "seendate": "2026-04-07T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 11.5,
@@ -1085,6 +1103,20 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-04-07T07:00:00+00:00"
+        },
+        {
+          "title": "Data center moratorium approved - Delaware Gazette",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rYnIxeTZtamV5U0hRWTlrSkpaV1U4dENXOGxBYzhBZE5VV295VU5naDhDRnhGd0pwYnhkVzliZ0VNbFp4UmVyaG1JdW5GQ2o2NGlXSEpzdnVMalBlaXQwRHV4dlg2cExPRFRkTlNuaEc1NUFpRzlvY25B?oc=5",
+          "domain": "delgazette.com",
+          "publisher": "Delaware Gazette",
+          "seendate": "2026-04-15T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Pause / Ban"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-04-15T07:00:00+00:00"
         },
         {
           "title": "Data Center Q&A: How will the facilities really impact power bills? - Spotlight Delaware",
@@ -1113,38 +1145,10 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-06-08T07:00:00+00:00"
-        },
-        {
-          "title": "Delaware House passes bill requiring separate utility rate for data centers - CoastTV",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZzlWSHRNUV8zRjdsM1lJLW1rbkRmYlJLSlpRNEFZemo0Z05jZ0pNOEZ1cmVjdzZ3WC11TXlvOWhjLXY5ajJVYzJFb2YyZUxMZlBNY0ZuNkdpek10dGFfS3RiY3NPemxpanF3TUtPOVBETkxoa2NTczdVazBsUjY3bTM0UXVvUS1pZE9pMEp6em82SFhYOTcxSkQ4bGgwblI4WHRFN3dMam1saVVmN1B6Y0U5eTlJcHNPN1UxdkZUMlpUREpmTzlhSXBfOE1UUVU3S0N2LVNVRUM2MmxsZnU3enpvXzIzQlBqTkE?oc=5",
-          "domain": "coasttv.com",
-          "publisher": "CoastTV",
-          "seendate": "2026-06-17T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-06-17T07:00:00+00:00"
-        },
-        {
-          "title": "Should future data centers provide their own power? Delaware debates - Delawareonline.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPemluR3V2WDA3YXc5RjkzLWdRN0FXeW9ISHprZ0Z6TnhhY2VVZWFvdFFTTXUyZlNQbnVtZExwQmpUbjJBRmtONDN6aVo1MEU0Ymt1LWhlYU9idW1jQm5TbXJZa0w2SjBoQWZGd3hYQWljNlFfWFc4b05JX1NSNXRZcUpHVm5oSXRWWDUyMDdENDRWRXMzQ1dEcHV5Tm9aWV92ekJQNU1LTzhmcnVpRHJpYW9BRVJiTGRZMWFGa1pySGo4MDgwRnJuNExUVkhSR3I1ZHg0ZDR1STI4cEtY?oc=5",
-          "domain": "delawareonline.com",
-          "publisher": "Delawareonline.com",
-          "seendate": "2026-06-18T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-06-18T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -1226,10 +1230,10 @@
           "date_display": "2026-08-27T07:00:00+00:00"
         },
         {
-          "title": "Florida Village Council to bring back data center moratorium vote - Treasure Coast News",
+          "title": "Florida Village Council to bring back data center moratorium vote - tcpalm.com",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQnFEV0NyU3dYdkxPN1Buc3NCUzY4Ri0zYzljT3NDbldkSVJzQU5lVjIyYW1MZWMyMmtqemRsU2VvZWI4dVlWcENFQXBxbGJ4ZGdkRWl2SEpSdTg4dTBRLWZ3UkUtVXdvZkRka3BRbzVfMVdCdGtxV004WmlXbURrMWZSYTJJeTV3NDJkTzNIVTkxV0VjY1lkVkhBOHR5dVRzOWo0SjhfeXotQWYwQmVZTHlOd2dEenlfQTlPbEpqbnEtRXhSQUh4V1RBcFRNNHptc3Fj?oc=5",
           "domain": "tcpalm.com",
-          "publisher": "Treasure Coast News",
+          "publisher": "tcpalm.com",
           "seendate": "2026-09-08T09:04:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -1241,10 +1245,10 @@
           "date_display": "2026-09-08T09:04:00+00:00"
         },
         {
-          "title": "Florida council to bring back data center moratorium vote - Treasure Coast News",
+          "title": "Florida council to bring back data center moratorium vote - tcpalm.com",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeC14RUlIYjFsR01Wa1Y1emlKMHJWQ2kzQWJ3bFRHdnF0dkhMNHBkdzVPUFhYV2VVd2dadTUxRnBKQkd1X0xITVhfSmZiWllicV9JWS1UQm54ZUxta0k2aUhZMjI0NlZkOUtxRi0zV1B2M2czdjNBSm5HT0VyaE5zbU5SdU90Z0ctbnY5d0VweHNHbWM3b2FxZHg4VW9vblJ5b1U4SGg4dG1hTmJ4U1RlWTFvZjJKTnJRSkxFSzVTQmZOMERocjZLTmJpTXRoS3VDS1E?oc=5",
           "domain": "tcpalm.com",
-          "publisher": "Treasure Coast News",
+          "publisher": "tcpalm.com",
           "seendate": "2026-09-08T20:20:04+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -1256,23 +1260,22 @@
           "date_display": "2026-09-08T20:20:04+00:00"
         },
         {
-          "title": "Orange County supports pressing pause on data centers to develop new rules - Florida Politics",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRmFNTkIwdXdlMDlIYnY2ZS15dTMzcWtlVjhmRnhYN2VDVHlZclVlVDlVUHRHUy05VjM3UjVIa2tsTlQ3R2VhNkw3Z3hoRzdBdF9EN0FNYU1YcUhRME4tRHFndmxaVktSZ2JuOW0xcHlwNUExazdqcW1rbEtzbWg3bjhTdG9BZlNaYTBrSlZ0SW84SDBOODFQY282b3V3czVJb0NreGZfaDdZNkp3bUZpOTE0Y0RJcVp3Y3hV?oc=5",
-          "domain": "floridapolitics.com",
-          "publisher": "Florida Politics",
-          "seendate": "2026-09-16T08:55:57+00:00",
+          "title": "The data center and AI donors powering Donalds’ bid for Florida governor - Politico",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTnQ1OU9DTS1DOFVkX0ZUakFFYzk4VjhFWnhGbGNCTlcyTUVYS3MtM19WZmRra3JnenNxdFBtUkZlQWFvb1dHZ0xRM1RMMm11MVk4SEQxbHBhZldvTThkTTN4QkR3Njh4eElVQnY0YzJ1Wi1KSzhRZkdjbjVvaUpleG9UNVl3aU9fX3BwZTdSWTV5NWV4OGVOR1B6dGxjMDQ?oc=5",
+          "domain": "politico.com",
+          "publisher": "Politico",
+          "seendate": "2026-07-21T07:00:00+00:00",
           "provider": "Google News RSS",
-          "score": 12.0,
+          "score": 10.5,
           "tags": [
-            "Pause / Ban",
             "Politics"
           ],
           "tier": "Discovery",
-          "date_display": "2026-09-16T08:55:57+00:00"
+          "date_display": "2026-07-21T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -1292,6 +1295,21 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-08-27T07:00:00+00:00"
+        },
+        {
+          "title": "After giant Georgia data center approval, Warnock pushes for state moratorium - WSB-TV",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFRxZG01UERpVGktdzdjS3c1UDRRRFVlaWNpYXJUamVPak9GVUJnbzRtWFVDWWhJUDR0UmJKWTZzVDJNRExvZDF1X0hUakhxZmRKZFYtN01QV1ZzX3M2bUEyeVFNMUFFSFhGTXpXZ3JhRC1VclVvMEh2VjNvaXExTnNRQ0tJcUN1Y1NrLUhXbDdJMEdtNXR2bFVJQnpIeFMtMVl0anJ6dU5Zd09XaXVJZjd5cFNUeVZ1eUV6Wmt6WldFcHNpOW9lNi1sQUdvQdIB4gFBVV95cUxQSWxEalFCczRwN2ZDOUc4YTBkT2p6RXQxN2VVWE9OSkpTU0t2OFVlS1RxVW5EcVY5X19hRDlGbVV6QmZQaXZPb0tMUVJYaWdMV2M3R1JwT2pBTkU2Q3VGVExvYnVHNnVVYWowZVpSb1NwWGNkYmt0S0YtUzdFU3I3RFVOSWdXb1N3WFJtd21FLVFmWTFKY0VWTDRRd0J4ODdfOW1fanVrZnpBZlhLd2ZucE9oUExjRkVjb01Ub0VXMHJPY3B5dGNhS3V6M3JURGgtVmJjV1hsdGJkUUxmVERXRHFR?oc=5",
+          "domain": "wsbtv.com",
+          "publisher": "WSB-TV",
+          "seendate": "2026-08-28T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 12.0,
+          "tags": [
+            "Pause / Ban",
+            "Project"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-08-28T07:00:00+00:00"
         },
         {
           "title": "Citizen-led lawsuit challenges zoning for OpenAI Georgia data center - WABE",
@@ -1367,24 +1385,10 @@
           "date_display": "2026-08-25T07:00:00+00:00"
         },
         {
-          "title": "Georgia Power agrees to new protections against data center costs - WABE",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc080WW5PSTljdXprem9zT2FBUTlVbmttbmNsQWU4OFJmTHgtMXNPWHFVbHVwZkRQczVILU8tNnhmMXJranh6MXV6RlFIbnJmRmd3ZkhTbnFRc3lLak5Hak9hbjgyR0RIZm1wVnBDQ2JiZzZsWVNaZElNd1paV3ctVjctUGpQZTV4UF9lUjdJekQ?oc=5",
-          "domain": "wabe.org",
-          "publisher": "WABE",
-          "seendate": "2026-08-27T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-27T07:00:00+00:00"
-        },
-        {
-          "title": "Georgia Power deal to power OpenAI data center is approved, with some fine print - AJC.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGxOUUhmcW14cTN6MGw4X3AyYzRjOGxyQk1ad2c1ZjVWczhZbWFpZU92eXBlc1FneWVyWkNMd2tuaURCanpMSjNvVmJjM3VDbmhGNkNxS3hPc3dRb3B4TVJ0VTFIUmRtaFV1X1ZmMEVjWXhBNGZPUVdncnRKdVNyUEtULUZlR2V2cFl5Sm9sZnlMU1ljZllYSTN2R0ZEOUxIWWJVRVh2VF9DMnNIRGt3?oc=5",
-          "domain": "ajc.com",
-          "publisher": "AJC.com",
+          "title": "Georgia Power gets clearance to serve OpenAI's massive AI data center in Effingham County​ - CBS News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDFlSWdGM0pFWTdhbkhOa0k3ZFBuNXZINVY3RHVTNTY4b0kxZV9ZWlpUQ040QjQ5LXNWcFZfUkd0QmpialJfek9nNWlTQlE5VGFWMUh4ZjFLZWNwY01GZ3EwcTdFNkw3eW1zcUQ1REtpcUxUMVlHWGhfRjlBbTdnS2huR0FaSG9STndBVDRDOE53dFdLODg2cXJJUVFhYzM5M2NqdkpySnhMMWF6SkN2eXNQbzJ0bENXdWJBMXpOdVZhbHNW?oc=5",
+          "domain": "cbsnews.com",
+          "publisher": "CBS News",
           "seendate": "2026-08-27T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -1395,8 +1399,8 @@
           "date_display": "2026-08-27T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -1518,8 +1522,8 @@
           "date_display": "2026-08-25T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -1588,64 +1592,64 @@
           "date_display": "2026-07-31T07:00:00+00:00"
         },
         {
-          "title": "Idaho lawmaker aims to shield customers from rising power rates tied to data centers - Idaho News 6",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzZfZGJpOGU2TjNPeVcyOXNtSUtSUVV4WlAzbWw3YjJYa2ZoMHBPcGUtaUxSVjhFMHRLd000eDljMnVBamtIVnNublEyMWRvczJNV0dXQ2NrR3JPa3E4OGNHbDAxSjFRcVZlQS13TFZsVDRBZnpscG5sS1paNUtaWXM0VTFhb1JReG43YmUxVGtZUFdnbEVrYl9pN0UwRW1paW9YY29seGFQN19oSy1XT1hR?oc=5",
-          "domain": "kivitv.com",
-          "publisher": "Idaho News 6",
-          "seendate": "2026-03-05T01:02:54+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-03-05T01:02:54+00:00"
-        },
-        {
-          "title": "620-acre data center planned for Kuna sparks concerns over power rates - Idaho News 6",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTBoWjdUS2xrXzJHZG5hWmNwT2pKT3RKMzRrR3RYMWN3cEZWUUdSUlE1SnRpYzhTaTVmNXNoeV9GQnB3M2w2VzdFcERTdmZDZ1lGZWp4M3VuMzdwVk9NdG5CZVkwdWlVN1kydkFwWUZQbHBUSDB0VmZ5VWJzNnBIOEw0MktCd1BjZG1EeFhCQXFLdks1dkY3cXpiVlhQR28?oc=5",
-          "domain": "kivitv.com",
-          "publisher": "Idaho News 6",
-          "seendate": "2026-03-09T14:14:59+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-03-09T14:14:59+00:00"
-        },
-        {
-          "title": "House Bill 895 — Data centers, water use, cooling (-1) - Idaho Freedom",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11NjV5Y3FrSjhnZXVnY2h1djlCdGRDYjM5OG1lRlFDeW9oMVd3X0RJNWtGNkZuVGt4eUVUbFFzQUVpbjc3RFN6eGVCZXJDZzNiQU4tS1RuQUtHR2hEemFCam85bFNOR1YzRTlha1RaWVVQU0JLa2R1bl8yZw?oc=5",
-          "domain": "idahofreedom.org",
-          "publisher": "Idaho Freedom",
-          "seendate": "2026-03-20T07:00:00+00:00",
+          "title": "Idaho advances bill on data center water consumption - Capital Press",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTZHSVFQZUVvVmFvT1BmdWY0Mnl3VERDY25aanhRbEdIZlFyam1oTFRRaHFwdEJSRERZNHZiRlJVb3I0U2hRdmRmWlpNRk5LWWpJOWlaYTRlUFVWbmgxaXByeXdDNkcyejJwdEpUNGpWTVBEeW9QT0twZkl4Z0FUTThxbEdaWnRJSU1wdnNqZkNCUjg?oc=5",
+          "domain": "capitalpress.com",
+          "publisher": "Capital Press",
+          "seendate": "2026-03-30T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
           "tags": [
             "Water"
           ],
           "tier": "Discovery",
-          "date_display": "2026-03-20T07:00:00+00:00"
+          "date_display": "2026-03-30T07:00:00+00:00"
         },
         {
-          "title": "Bill intended to protect water from data center developers heads to Idaho Senate - Idaho Capital Sun",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXNrWkdhWnJra1NpVWwtVmJMNzlQeTlYM3F0eHBLTGJldlBiTG4zQVFyQ3g4Yk5YTlRRdFhsWFh1RjUyRndxbXpFS0ttNEpaV0oyc0ZaaXRPbV90bU4taC1JeE1JTi1CdTVSektVTmRjUzhwSkZXYTR1VkZHTlpRQXJJdFBfZ0xBaDNlNkxqZ3dMemh3c3V6bmxDRHF4Q1FkLVJrczd0VXRhU3NaQTFWQmNnTjRJalVUQ1o1WA?oc=5",
-          "domain": "idahocapitalsun.com",
-          "publisher": "Idaho Capital Sun",
-          "seendate": "2026-03-26T07:00:00+00:00",
+          "title": "TerraVolt inks natural gas supply deal for onsite power plant at planned data center campus in Idaho - Data Center Dynamics",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVmdxLXBSaTJsRnpxdU0xaUtDYTZvNUdrOXBfcEM2UjhSM052S3RnUnVlNkREUHd0eWxVMmFlNW54OEh2a2doWThITWh2UVdwcEotdGFaUkNLMnNuRldhVGZRWGxPS1RQY0w0V0NVSkRjZHlsOV9vRzkxanA4TmQ1bnNCYnlwTUE3QkVDNzlPQjhJMVJxQ2o1N0trS3JfUlJLZ1d1bnc3Y3cyU0tVdnhWRnU5aENPX2p1ODhwaGZJM0hScU5XQmVhME9zRXF3RGtVTDgyRlBGb0RMeGJ2?oc=5",
+          "domain": "datacenterdynamics.com",
+          "publisher": "Data Center Dynamics",
+          "seendate": "2026-05-12T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Power"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-05-12T07:00:00+00:00"
+        },
+        {
+          "title": "Pocatello hearing examiner denies Hoku site data center permit but Lex Developments vows return - Idaho State Journal",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORGt1WnF3REozM1NNT3dRLVFlZGJpS25sbVBBbW03ZE5fTmRKUTFCVTIxM1NZZzNNRlBlTXBfU29CZVhMZXZGRUkwZnBZd3F3OHZ4cHBmUjRUWmR1TjRHTDRxZ1BhWjdRb2Z1SXJUak5GUjVFQnZhQ0xPMkdJcnZzeEdIc0FTTmo2ZkZGXzZjMDJTUHpsZHRBbkRSWDY2bmxmc0hyNTQyMXlFbVIzSE1kbVZ0eWJGRjh6b2E5NmZwWVpvaHZ4aVI3YVBYTDkxNkhZcWRrY19VOUJuX0I5YXFiMW5QZzNfQUJuSFpkZ1NnR0VQMlNzdVNhUC13S19Yb185Q2JVcXZxZ3BFUnhRTVdCOXlTbEpNLWphWVE?oc=5",
+          "domain": "idahostatejournal.com",
+          "publisher": "Idaho State Journal",
+          "seendate": "2026-05-18T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Permitting"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-05-18T07:00:00+00:00"
+        },
+        {
+          "title": "'Water is life': Shoshone-Bannock Tribes oppose data centers on reservation, ceded lands and treaty areas - Idaho State Journal",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNc3BBRTZKdk90Y2M1R2M1SGhYc0xvRElhd3dtajFHSlNQdmt5TVpaYnFfZEZ1bE14WkdUT2RUTzNtRE45YWtiMHE5YzlwVUlENU4yTHpfUkx0Z1ZsMmEybjZTeVBVdzFBWE9qVTV6cnR4YzJBSHBOWHZTbXJNYjZWREpGUS1Qb0NNeGtVUGN6aDMyRTZSeVZSOUZ1a3h1a0gwYkJndjdib2dIN2xhanp3THBWR0YzcDhMSWZBamlyVVZQcDRXUzlsSmlqWHRYMFo1QU1yVUxZWkFUc3hHWWYyNzB6TllxZE1tdDc0akd6UDczcGFpMTdLV05FSkd4ZFlmYlRPZWNyNHkzWTFkbFdha2pOenU0U3FBUnc?oc=5",
+          "domain": "idahostatejournal.com",
+          "publisher": "Idaho State Journal",
+          "seendate": "2026-05-27T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
           "tags": [
             "Water"
           ],
           "tier": "Discovery",
-          "date_display": "2026-03-26T07:00:00+00:00"
+          "date_display": "2026-05-27T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -1729,10 +1733,10 @@
           "date_display": "2026-06-05T07:00:00+00:00"
         },
         {
-          "title": "Sangamon County Board approves a controversial data center project - nprillinois.org",
+          "title": "Sangamon County Board approves a controversial data center project - NPR Illinois",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUFZLWNpLVRMcXhuOUVvX3M3M0JmTUFBSlhfa2VlRnZpZGhaMUJUdkR4TnFjM1pfeWJuZGJERzJNQnpmTG8zLWdIdkxPR0I5Q0Q5R0taNl8yRGF6MzlQel9YZm9hcHBRMzdBNkphTW5nNTl2aEZXREZ2UWZ6RHRHek1wNWJaQUcwNVVKQm83Qlh2NnlqOFlyOHFzZmtBd3F2ZndXSGdOZ0o2cXM2LWdNYVZTRlVRcFpZNm1qRGZR?oc=5",
           "domain": "nprillinois.org",
-          "publisher": "nprillinois.org",
+          "publisher": "NPR Illinois",
           "seendate": "2026-04-07T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -1771,8 +1775,8 @@
           "date_display": "2026-05-01T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -1809,10 +1813,10 @@
           "date_display": "2026-07-10T07:00:00+00:00"
         },
         {
-          "title": "Indiana governor signs Trump data center ratepayer protection pledge - indianacapitalchronicle.com",
+          "title": "Indiana governor signs Trump data center ratepayer protection pledge - Indiana Capital Chronicle",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0pVNUZUVGc0eGVrc0JnTC1VS2VDNVBOeFROVkpodVBXOTU4aTlfYWctX1pqZDVXelBEWFpuUzFxekoxejlDdlZBa2RBOW4wcWF5d0U2QzY5d1JrWUNROGxUbm5EU2s2d3ZlQm5wV3ZMY2NfRVlQdzJyVjBqXzVCMTByME1fSFJvT0ZWbjBjbVhxNE15X0J5ZXlCbHJlR3lrTTR4R013TjZ3c0RibjJpcVo1UnFiSkU?oc=5",
           "domain": "indianacapitalchronicle.com",
-          "publisher": "indianacapitalchronicle.com",
+          "publisher": "Indiana Capital Chronicle",
           "seendate": "2026-07-23T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -1822,6 +1826,21 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "title": "Gary mayor orders one-year data center moratorium - Inside INdiana Business",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVI0WXkyZDFMWkkwQjQyeVBZbW82T2l0a1pnUUdGSDB1Z1Y1bWlnMmI5Z3l4YVRRb1dxaG1sQ3Fna2M4dVZ3b0c0eXg0TGlwakV4aVlZdG9JMkE1Z0JOM3QtOXhkR29uV0VQMzJYZDN0VUxhNzVzcE12RW5rRnBERDZXY1RsRkNyZlU1N1NzeldMZDd5YW1NZGc3ZWk?oc=5",
+          "domain": "insideindianabusiness.com",
+          "publisher": "Inside INdiana Business",
+          "seendate": "2026-09-16T21:06:09+00:00",
+          "provider": "Google News RSS",
+          "score": 12.0,
+          "tags": [
+            "Pause / Ban",
+            "Politics"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-09-16T21:06:09+00:00"
         },
         {
           "title": "Indy council advances pause on data centers, sends to commission for final approval - WFYI",
@@ -1840,10 +1859,10 @@
           "date_display": "2026-08-10T07:00:00+00:00"
         },
         {
-          "title": "Madison County considers data center moratorium - indianapublicradio.org",
+          "title": "Madison County considers data center moratorium - Indiana Public Radio",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYy1pRi1tQWdabDJtOU9PYVJ2MnlkQUNHeHB0dTFKamhybGxvWmZjeXNIYXV5bFlyTW5TZGkzS052TDlNZUVjSWdBbEs2bExvc18wVXJ4dEprRkRHbGFfRG15N1dveW9XN0JLUWh0XzZzcENoN2xuMUJRQ0g1MjZNbDc0d2pYTTJxeUlhYzlaejJ3bVByN29vQVFkVUdIVUNVMFZQSQ?oc=5",
           "domain": "indianapublicradio.org",
-          "publisher": "indianapublicradio.org",
+          "publisher": "Indiana Public Radio",
           "seendate": "2026-06-09T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -1854,10 +1873,10 @@
           "date_display": "2026-06-09T07:00:00+00:00"
         },
         {
-          "title": "Madison County passes short-term data center moratorium - indianapublicradio.org",
+          "title": "Madison County passes short-term data center moratorium - Indiana Public Radio",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1lQMk96aEEyR3VsQjVSWXJWOWZoTHNTeXBxcnFMNmdGMHNRRHRyWkJ2dFFnSkpqTWZ3aUZPRGF0TDhKczNVTG5WWWRpckE0UjhfY3JUMXFfZk9iMC1mam9LWTVCbUhILVNTdkM2X2Z6dWhxTEgwbWxkRFQ2YXN5MTNaaTJTYmlCdmR2d2FENVhyWVk?oc=5",
           "domain": "indianapublicradio.org",
-          "publisher": "indianapublicradio.org",
+          "publisher": "Indiana Public Radio",
           "seendate": "2026-06-16T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -1880,24 +1899,10 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-07-09T07:00:00+00:00"
-        },
-        {
-          "title": "Indiana regulators OK energy project tied to Google’s Morgan County data center - dailyjournal.net",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc21GZU5DbW0xRDdGLURFN19HVUZuYUlsTXFHZ0d3SkNzUW50OFY1MWlEZGwtNW9CeEJ5YVBfTmdjcHFpaDJUeEstN19Ca3N3UnVJUlNRSnBZWF9jRmdnOWpGU2U2aDhxS0xaXzlYc1JmbFZ4RTJ3YUJFOFo3SVFLeDlRMWhYenBTdTRLTVVlVVBtRE1kZldUc3JWZWNZb1dodVZoQTBLTllSUUlyZlRNdXlLMzFtZw?oc=5",
-          "domain": "dailyjournal.net",
-          "publisher": "dailyjournal.net",
-          "seendate": "2026-07-13T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Project"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-07-13T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -1976,10 +1981,10 @@
           "date_display": "2026-07-22T07:00:00+00:00"
         },
         {
-          "title": "County attorney halts data center project as developer explores move to Wisconsin | Daily Democrat, Fort Madison, Iowa - mississippivalleypublishing.com",
+          "title": "County attorney halts data center project as developer explores move to Wisconsin | Daily Democrat, Fort Madison, Iowa - Daily Gate City",
           "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPRmF3R0ZVX0xQTVo0SGhHR0NhZ3c4WXpEMURFSGhEOWtHZDJ0M1JnR1VpZktDWEE3NGxHc3dtRWRLV0p3a0F4UE1WcDREM3NLSHJtTGFmRmdadThjZ1ZLa0FWZFk0S1dYdUFnTUJPTjBRUXpSRVAxekh1cDBiMnJJVzVsbmJKcWRfN1FhVkl2Nlg0cXN0N09zVTV5WHljUV84RW9JNWVzb3VmUnpmY1JDYWNteUtwUXRrVGpjakxSMkpiaWVMZWxpWkJfNXdLZHRNQUlvVEs2VUxIQ0hhbGpUR2U4cndnNW4zRjhXVXF6TThZUm1UZEJaa29EbkwzRDRMcFJsTWJJRnpQb2cwQzl3dm5wY0oyd1JBMHc?oc=5",
           "domain": "mississippivalleypublishing.com",
-          "publisher": "mississippivalleypublishing.com",
+          "publisher": "Daily Gate City",
           "seendate": "2026-08-03T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -2018,8 +2023,8 @@
           "date_display": "2026-08-25T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -2086,6 +2091,34 @@
           "date_display": "2026-08-05T07:00:00+00:00"
         },
         {
+          "title": "Kansas legislator calls for data center moratorium in Johnson and Miami counties - KSHB 41 Kansas City",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODdwbW04NlVXUndDMHZ3TW5KRlp3QWxObHN0REZralNxOFBBaXg2bFRUSUpnaWp5WG9jbGtZaWw0Z2NHb082Sk9aZEdlY1hIYmVqcFVQME1XdVNDdkZPejI5dlhidV9hdzJJTGRTZ011MVpObE1xcXB4YVdScVpRMkNIM0dadWxqZGhYdDd5bGR5VTlQZzR5bWNOazkwOXRTMmk4S2hPM2VXZm9INGppUXhEOVktS21uMzlhQWEzSklZNE5pYWZBU2tKYkJ1Tjl6NVYw?oc=5",
+          "domain": "kshb.com",
+          "publisher": "KSHB 41 Kansas City",
+          "seendate": "2026-05-14T20:40:33+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Pause / Ban"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-05-14T20:40:33+00:00"
+        },
+        {
+          "title": "Kansas county clerk rejects petition to block data centers, says it was filed incorrectly - KSN-TV",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3l3R25KYldMYjM5T0Zab3AwZndkclNzUFRwMENER1EzaGZfX2ttUXF2V0FqNE5STkhEcHhoeWNXVXNYemNrX09MOEdiTnNkQWdUN0ZYQm91b3FMeVBENDcySW5xS1ZZREhkY2NhdHYyeDFyT0l2MHZVNTNMWmcwWWJmYUUwZWZJZ3g2X01n0gGTAUFVX3lxTE5uQmdjSjF3emFlQjhDb3RJVU84RTdiamlycjQzX0lHNDJkTzFsbkFFY2lmdm0wV2I4MkVrUVFWaXpQekN5X0ZIYlU4bzZiQ2ZqNW56dVpRY3BZYVBMb0tpRV9kUmJaZzNsanhvWllieEt4VTA1UC1LMjNrbHB6WGVDa1F1bFhmR2YtWWIyV3ZJR3VSQQ?oc=5",
+          "domain": "ksn.com",
+          "publisher": "KSN-TV",
+          "seendate": "2026-07-10T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Project"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-07-10T07:00:00+00:00"
+        },
+        {
           "title": "Kansas Governor candidates on the issues: Data centers - Johnson County Post",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVRWc0o1SG1Ub2kxWGhnaWhiOUlIRGRGTGhydTY0aHQyb1M1d2NfTHFRMDU5UlVKMjdudndRS19MekZyNzktVmo3WTEzOTdNM0t0WTA3a0NwOE03Njd4TDJRb1dJTlVDaVNRWkREQzd5TjcxX2p2dmR4V05TeG9YMWtSeE9fSXRrNjBZcnBFM2ladGRMdFNXY3VxV2tQSjd2dHlnZA?oc=5",
           "domain": "johnsoncountypost.com",
@@ -2112,38 +2145,10 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-08-15T07:00:00+00:00"
-        },
-        {
-          "title": "After Johnson County data center lawsuit, petitioners say town ‘retaliated’ - Kansas City Star",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHIwbkdfMHVpSWFUaHB3QWcwU01UNS1KaUpMaHpwVU05dklQTE9sZ1F4bzNlUWF1di1nRzZVcXFsQ0gyR2xKV2U5X3QtWXZOLVVLcGUzeUd4Nm9uZUpzRWdtWW1LdmpBekpXT0hCVkdYVkZkMG0wd2JjcmtkY0UteFpXTlZTaFVkMndsQtIBjAFBVV95cUxOVzQxcXVKMVBGU3JhblRPNjkxNGNmN1pqbXlNLVR1bHBNenA1czN3TUNBOVpQQy1uVGZGMkphRGtQaFBLc0tSbFNaR1B3bTZiMHY3dW4tWGpUODVxTE1vNG5pa205dklGaEpyM2hBQWQtaXZKMkwyOGtrbWpodTBqUHZoQTl2N0pfMXF6RQ?oc=5",
-          "domain": "kansascity.com",
-          "publisher": "Kansas City Star",
-          "seendate": "2026-08-18T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Litigation"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-18T07:00:00+00:00"
-        },
-        {
-          "title": "Barber County finalizes deal with Google for data center project | Trusted News Source for Wichita & Kansas - KAKE",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTJwQ2h0ZExDdTUxXy1NV08taUlIVi0xLTVpWlhIa3FRalp5NUVNU0Z3TWtOSGxFakN6S2EyV2lBMjJkTFVaTDkwVkdWeUQ4akRpQnpvcjhEM0RuNUdyTlFXV1FGVnJlZm1ZdWpCbkxPd05WZUZRdE9qMzhMcnFlR0szbjJSWXlPbTRZOXpnZjJqRjEtWTRuS2NhTFdZUkVYbmdZWE5GSmdtRlB2VEsxMmFCVEF1QTdTYW14aVRBWk4teUJCM0VZZWRIQXhCejEzamZzSnc0Zw?oc=5",
-          "domain": "kake.com",
-          "publisher": "KAKE",
-          "seendate": "2026-08-31T23:44:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Project"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-31T23:44:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -2267,8 +2272,8 @@
           "date_display": "2026-07-20T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -2389,8 +2394,8 @@
           "date_display": "2026-06-25T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -2487,10 +2492,10 @@
           "date_display": "2026-06-30T07:00:00+00:00"
         },
         {
-          "title": "Eastport Council unanimously adopts moratorium on DeepGreen underwater data center proposal - themainemonitor.org",
+          "title": "Eastport Council unanimously adopts moratorium on DeepGreen underwater data center proposal - The Maine Monitor",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbVVyTFdqSldVbTNjQUFuMDU4TFNjQmFGSzhldlc4eFNVcTdSSUl5VktEUUFEQUQzSXVNbktaVDhqUFZEU0xmUGF6d0FjWkRmSlEzeVlZc19jZFBNSF9tTFBfVkpGUVZmeFpNUHdCNm5BbEIxYW11Zk9rSmRXMy1uSUl2YXd2MlJ6TUQ1N2c1bUs?oc=5",
           "domain": "themainemonitor.org",
-          "publisher": "themainemonitor.org",
+          "publisher": "The Maine Monitor",
           "seendate": "2026-08-13T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -2516,8 +2521,8 @@
           "date_display": "2026-04-24T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -2569,10 +2574,38 @@
           "date_display": "2026-07-29T07:00:00+00:00"
         },
         {
-          "title": "Harford County becomes first in Maryland to ban data centers - wbaltv.com",
+          "title": "PJM market monitor opposes Maryland power plant sale to data center company - Utility Dive",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlpPZHV5UkRJbXR1RmJCTjdnRlZKa1FmTVhSekJrOThXUTlNZHV0dDJ0YlpHT1BoS0J4REZUNXEyZkJJRThwUnVsdkltN29rUmQ1bFdfTUluOW1QSVhMU3oyVGQ0T1NLRTBwaGFuVWJkZ3Y5azBPREdpYjNtbndZQlgtM0Vza1prbTdBcEtB?oc=5",
+          "domain": "utilitydive.com",
+          "publisher": "Utility Dive",
+          "seendate": "2026-03-05T08:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Power"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-03-05T08:00:00+00:00"
+        },
+        {
+          "title": "Harford County becomes first in Maryland to ban data centers - WBAL-TV",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMEttV1RTZUxpdVQ0Tk1yelhzQzFZYVAxT3lzZGUxSWxHUlRnVzZuUjE2X2pucURYNzM5NEJmVkNpYWFsa0hCZHBQa3dMVGtzdU9UODdPRzQxUi1nTE5aWkVmNVZwSEdVTDFKaVRXZHNMT2NuQUdIc0lxMWdLNDZEVVBnVWF3WWJPQzdrVFR3?oc=5",
           "domain": "wbaltv.com",
-          "publisher": "wbaltv.com",
+          "publisher": "WBAL-TV",
+          "seendate": "2026-06-10T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Pause / Ban"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-06-10T07:00:00+00:00"
+        },
+        {
+          "title": "Harford County becomes first Maryland county to ban data centers - WBFF",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWtjUzJaRzRYSGtKM1c0ZmdPT0NGbEFiMG50NHNyMXA4elNGRzFqVWFFSllpN1pIaFBUWXl0Z0hvNWg3SF9rTmlVREZYVlMwcEdGRHFDcTRsSlFjZXl6dVlzb1FvX2I2cFVuaHRIVFhLV0tSRkJrLWozdXhBOHVFUGc0WC16b1R0ZGpzMVpQcEp3NGVUTHdWWkN2UFo?oc=5",
+          "domain": "foxbaltimore.com",
+          "publisher": "WBFF",
           "seendate": "2026-06-10T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -2609,38 +2642,10 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-06-23T07:00:00+00:00"
-        },
-        {
-          "title": "Maryland Supreme Court shuts down Frederick County data center referendum - WYPR",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOVJVWFJYQVFSRHpXejIxMXdteTNHQUo0NnpkYVFYVVVfQXoyOWdqTVhsbXhLYjl1S3lKWmlwLUtHVEFQSndHVFVBbmk0dlJiNmhNVzBHdHQ3bEJQalpSaTNuVHBOZ3RQcDdxbE42alBRaVJuc1JnVllIaEVPdTVfU0dUb1BjdHpUQmJIRVR2d0l4NHlXWDM1MWFsRjZieDVIY3BFbHRueTRnQng4UmZ6bnBsaUo4UQ?oc=5",
-          "domain": "wypr.org",
-          "publisher": "WYPR",
-          "seendate": "2026-06-30T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Litigation"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-06-30T07:00:00+00:00"
-        },
-        {
-          "title": "Western MD county approves data center moratorium - Maryland Daily Record",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1R0NUdWWUt4all0LWRZRExaODhQTlBHdWV3SVR6bWZRYVdfNy12Z3VRendBbGRyWExwQkFLUEFlQlVWRmlrVWh3NVdyNzZ3MmdXbFhpNmJkS2dHUHZZZmh4Zmw2TVhaVlYzNkJkNWJfYVVWYmJPVV9jQ1VvV0hPTTJWRVV6YmxhSzIweXQ1T1gwV0N0TmpzXy1hbkdJQQ?oc=5",
-          "domain": "thedailyrecord.com",
-          "publisher": "Maryland Daily Record",
-          "seendate": "2026-07-01T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Pause / Ban"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-07-01T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -2677,10 +2682,10 @@
           "date_display": "2026-09-13T20:24:55+00:00"
         },
         {
-          "title": "Challenge to Massachusetts data center moratorium fizzles as developer agrees to dismiss case - thecooldown.com",
+          "title": "Challenge to Massachusetts data center moratorium fizzles as developer agrees to dismiss case - The Cool Down",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTTZrbXhFUTh6RUpPMXMyb2VQcF85bVRvSFhPYWRtN0tVcmFwc3Jza0JjMTY3UDNTZ2Q1UjBjOEtaeng3RHlFX2QwOFA3NW5ULUw1Z2V1eWZHaGVXNFJfVXZ6a09uMjhHMG9aeTZac19wc3piVHRqZnJ2bmNKNkRoNzRaaVdmRjBfSklEenJkcTBoZw?oc=5",
           "domain": "thecooldown.com",
-          "publisher": "thecooldown.com",
+          "publisher": "The Cool Down",
           "seendate": "2026-07-18T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -2691,18 +2696,18 @@
           "date_display": "2026-07-18T07:00:00+00:00"
         },
         {
-          "title": "Massachusetts Senate Democrats warn on AI's costs but let data center moratorium fizzle - thecooldown.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUlzUXJlTzViTzRSbWlscUItTGNPN0pwamVnM2FodjBEVXNJV1Q4QkZPaDhTN3FiUjJoRFVuZGVjY2Nqc1JMWnZ2R0twcjRLMGVWNHB2eUxRUzFhWU9VaFkwRWFCYUxPdUhSQ0tGMXdubVg4REFSOGdXekVtREdZUFlMQnFLdmpKdjJ3SmZkZw?oc=5",
-          "domain": "thecooldown.com",
-          "publisher": "thecooldown.com",
-          "seendate": "2026-07-30T07:00:00+00:00",
+          "title": "Massachusetts Senate Democrats warn on AI's costs but let data center moratorium fizzle - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlpkQWlfRkxVWnpacjFEYmlsd3h3WWx4TDEtSk9EMkFqa0NqN1NDZzNBekhsSjlScTJicWlqU05obElaZnBZaktPZF8wdmNFQWtLZWNfWVBqd3lWb2R0M3lsS2pUVmF4WkNFaHBCS0lYdnZtRGRWWGVuVk9ZLVFTM1ItTjZiY0hSQk1Nb0xPd053T3Byc0ZJSG40SnhBTnhZ?oc=5",
+          "domain": "yahoo.com",
+          "publisher": "Yahoo",
+          "seendate": "2026-07-29T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
           "tags": [
             "Pause / Ban"
           ],
           "tier": "Discovery",
-          "date_display": "2026-07-30T07:00:00+00:00"
+          "date_display": "2026-07-29T07:00:00+00:00"
         },
         {
           "title": "Massachusetts Requires Clean Power for Data Centers - Briefs Finance",
@@ -2719,10 +2724,10 @@
           "date_display": "2026-09-08T07:00:00+00:00"
         },
         {
-          "title": "Gov. Healey Just Gave Communities Veto Power Over Data Centers In Massachusetts - gadgetreview.com",
+          "title": "Gov. Healey Just Gave Communities Veto Power Over Data Centers In Massachusetts - Gadget Review",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzNxNGxrUmNxZFY1ak5ubXpmeDdCUXd5c0RSNWx2ZnpzaTdFc3ZrZW1mUjFVa0drSFRvTHJrb05PTTZkTHJnOVduaWx3dkRYdkh2SVFobEtJc3RDZXlUVF85MVZfa0JaREU4cDkxVS1aMFp1Z3FqSVBhX2REcElFemhvelA4YUt3UzFSSHhjaEVUVmZETjFzUTllT28wVDBCdnJJcTNlX043cUU?oc=5",
           "domain": "gadgetreview.com",
-          "publisher": "gadgetreview.com",
+          "publisher": "Gadget Review",
           "seendate": "2026-09-09T16:00:29+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -2761,8 +2766,8 @@
           "date_display": "2026-09-10T16:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -2799,10 +2804,10 @@
           "date_display": "2026-09-01T07:00:00+00:00"
         },
         {
-          "title": "Michigan City council mulls moratorium on future data centers - chicagotribune.com",
+          "title": "Michigan City council mulls moratorium on future data centers - Chicago Tribune",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGpuaHVxX09xRF9kWHAzX3hqbWhEenpqNHkyS190ejhGVms1eEtjYnNONk5rLTRBQkdIdUNzYUxPaTdnckdReVVZOER0Q09RbkJyb0Q1SU9NRDFUOElXWEZDa1NqbV9Za0h6Mi1JUHl1RG5CN0NfZl9VdjRWQmt3M2szaTJPTHhtOXFpd3pkYXFIX1JTa3lIRkJ3R2lyR2tPVC1aN1BpQQ?oc=5",
           "domain": "chicagotribune.com",
-          "publisher": "chicagotribune.com",
+          "publisher": "Chicago Tribune",
           "seendate": "2026-09-02T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -2828,10 +2833,10 @@
           "date_display": "2026-06-04T07:00:00+00:00"
         },
         {
-          "title": "Runestad proposes one-year moratorium on data centers, urging caution and scrutiny - michiganadvance.com",
+          "title": "Runestad proposes one-year moratorium on data centers, urging caution and scrutiny - Michigan Advance",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVhab19JUkxaLVZQQ0xhYVdHTlpWQURjcXJNWDZzZ3h6REtXZVQzTThINnJxM3V3UDdGUUtKOWh0aVI0TE4tSjJnX0dxOXZEWl9YYTd4RnZIcXBIUGZLZEFobjdxM0UyVzVSLWFJaEE5OXJvNmFUdk1Obk1SNDkzWTV6aHZEZXM0QVUxemY4eUNsc1RMYlZ5ZnFkNGR4ZThjRGdUQVVzTmtZYU1kelhLc0kxTlpEQUswRVdUd2NR?oc=5",
           "domain": "michiganadvance.com",
-          "publisher": "michiganadvance.com",
+          "publisher": "Michigan Advance",
           "seendate": "2026-06-04T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -2842,10 +2847,10 @@
           "date_display": "2026-06-04T07:00:00+00:00"
         },
         {
-          "title": "Michigan lawmakers, local officials and residents renew push for statewide data center moratorium - michiganadvance.com",
+          "title": "Michigan lawmakers, local officials and residents renew push for statewide data center moratorium - Michigan Advance",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjdaVUF4R2hVSmpnRW4wZFdHalNTbUhIY09BY0N5WndkejNjMTZ4NEVSd3hLNnc1SXFsZUpqb0NxUElQbXNUVmtTNVFFMFQzQXdGWWNNQms2NElEVzlqVHZxdGFfMmZYcDJid2VRS1ppekhmX1VWVjlDUzZuSWRlbnpMbnNXc0NCQ05vZmQydlNVb2diVW5Qend3cHJ5MjhuN0l4MVdNNFFEd3RfZFFmcjVTSlFmMVU?oc=5",
           "domain": "michiganadvance.com",
-          "publisher": "michiganadvance.com",
+          "publisher": "Michigan Advance",
           "seendate": "2026-06-24T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -2884,8 +2889,8 @@
           "date_display": "2026-07-15T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -3009,18 +3014,18 @@
           "date_display": "2026-06-25T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
     "Mississippi": {
       "articles": [
         {
-          "title": "Jackson City Council debates data center regulations, considers moratorium - mississippitoday.org",
+          "title": "Jackson City Council debates data center regulations, considers moratorium - Mississippi Today",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSmxDemNDNTd5RTdheUhSTTl0TTEtZFhodDVCM2xSdU16SGRqUUwzSmhTUmVuQXBYZm45N0poc2ZGd1l0TUxoZVlNTXFUdHZYeU9tX2w1UTNqVEJCbmhIQ254dzRRTnBsZURXc0M4SWRnUDkycm5QSXBhMWlJQQ?oc=5",
           "domain": "mississippitoday.org",
-          "publisher": "mississippitoday.org",
+          "publisher": "Mississippi Today",
           "seendate": "2026-07-07T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -3030,21 +3035,6 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-07-07T07:00:00+00:00"
-        },
-        {
-          "title": "Fort Madison Planning & Zoning Commission to continue researching data center-related ordinances - mississippivalleypublishing.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQVVVtSUJ3X2xYdjJLbmxDZGc0ZE9iM05RWDd2Wmp5VWxqME5yb2JRWEF0VWlPQnVhMGdvRFBVcER4YUZPQ2FTYm5KLUJSSEF2LV95YzNQTHYyTjFoNmk3TlpJbjFyYlp1Q2hrM21GNDc0ZlY4T0pCbGgydWdnWWNYS3JfS0JFTVlqblJWZlVYVndVSVVqREVickpoVHVZZy1LUjA2cXBRSHgtUExYR2dHRjQxQXhxWVFRcjUzZUlvc1RLMTV5TUpvVHFnZEc2MjllMkhkM21EUHNUdWF5Rkxkb2NmNTdmdXJIaUZ6UGU4OHNLd3l3Y3MyMmFrN045eEgwWmdPU3F3YzdoNEo5clR6ZVQ0SFc2d0pneDFiSUlDM1dFUjMzUkxySA?oc=5",
-          "domain": "mississippivalleypublishing.com",
-          "publisher": "mississippivalleypublishing.com",
-          "seendate": "2026-09-08T05:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 12.0,
-          "tags": [
-            "Permitting",
-            "Politics"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-09-08T05:00:00+00:00"
         },
         {
           "title": "Jackson Delays Vote on Temporary Data Center Moratorium Following Confidential Legal Memo - Mississippi Free Press",
@@ -3061,10 +3051,10 @@
           "date_display": "2026-05-21T07:00:00+00:00"
         },
         {
-          "title": "Jackson data center rezoning hearing postponed - mississippitoday.org",
+          "title": "Jackson data center rezoning hearing postponed - Mississippi Today",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUJ3MlVjc0xUUWt0NmdIMncxYUF4aFI2MGEtUWxXaVRyT05MUnExYnhvMjllM3hGNmRHcFlwb0Y1cU5vSmsyb2FBS25zbW1pV3d6b1VNT09ZRElkTTQ3UVMwcG5oWHVXZHFNa1I5bzlSczhSakpiakpsTUNZN01TeG1PNEZmUQ?oc=5",
           "domain": "mississippitoday.org",
-          "publisher": "mississippitoday.org",
+          "publisher": "Mississippi Today",
           "seendate": "2026-05-27T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -3089,20 +3079,6 @@
           "date_display": "2026-05-28T07:00:00+00:00"
         },
         {
-          "title": "Two billion reasons why Mississippi and Entergy are proving data centers can provide power customers real savings - Magnolia Tribune",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd3M5RjhmRTRacWZBVXNUYjBHVi02OVJUUjJ1aVJfU2ZuVlRNTzlsTENsRnRpZkp6bTZwOTFWOGlBNDFwbEJkR2p4eHhjZTBqVEpvQ25aN1lQWHo5bnJhZWxVeVRqcE41anFDajFNdlZub203S1k0S3dZNEpBX1ZtdENrbUZKT04yMDBWN1c1NmZJNkpOdE9idVpqbDlqVWFqLVlGUEhOVlRnZ25wRzBZMW5zelQ0UVRZemg4a3djZkdfMUlXUk84Wl91MHlFanBUSTA2cVhzbVRTTWlrSnFxSDhMQ1JoRXJh?oc=5",
-          "domain": "magnoliatribune.com",
-          "publisher": "Magnolia Tribune",
-          "seendate": "2026-06-01T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-06-01T07:00:00+00:00"
-        },
-        {
           "title": "Report raises questions about datacenter costs for Mississippi utility customers - Mississippi Public Broadcasting",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2U5S2prbEwzTVhhdlpLanl4NXdhNElIVFRnQWhINGMzXzlkeXZUbVNhajFIcXdzQ0FpbWdmZkwtY1czMnZNbFJIVkNDUG5hRFlBUWllbnFRUWdLeWFCdGN6dFJvWUNPNGhLX2FUekQydVdMTF9fcUhmbTNwQW9jSHJuVVVXbFdSeENlQTl6aEpNTmdlU0lpRzMxQkJ6Um1YYUJ6bW5Cd1BBNHA3dmxqWUxncExtSEJJMXc?oc=5",
           "domain": "mpbonline.org",
@@ -3117,10 +3093,10 @@
           "date_display": "2026-06-03T07:00:00+00:00"
         },
         {
-          "title": "Two billion reasons why Mississippi and Entergy are proving data centers can provide power customers real savings - entergy.com",
+          "title": "Two billion reasons why Mississippi and Entergy are proving data centers can provide power customers real savings - Entergy",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFpmd01xZVM1YTc2YkhQUTBsSTN4OExLaFpsUHBqak85VXBUREU3UUxxVDFZQWtvNUdCWE42OWJ3UllDTHlhQW1vNGVrb0Y5YUQtYjRBTHpvZkNsR2NyZlI0em9LcFY4aFBYNms5OEhuUWNKV3lWSVZtNE8zckh1VEVzVGFpU2c2V1RPN2p2OERsYVg4U0NtekdxcHlhRmJQUFFua2h5R01zQWRrNjV3djM0QVZOc3lYX2h0VEIybTlhWWpTR2Z3djRuLU5SYloyU1AwN1ZiTU02Zw?oc=5",
           "domain": "entergy.com",
-          "publisher": "entergy.com",
+          "publisher": "Entergy",
           "seendate": "2026-06-08T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -3129,10 +3105,38 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-06-08T07:00:00+00:00"
+        },
+        {
+          "title": "City Council says no Jackson data centers until regulations are in place - Mississippi Today",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkM4aEVQcmh5Slp6U19jY0dlNnFvSGhaNjFyV0RFSjJSSWVlVldfRVRuT2ZBaUJ1NXo2aEJtbWJ2V18yR1cxUXJwQXg2cl9nTXZBWExkUkE1aUJXT2dnMFlQbklMNmZIUU9TUDN3VzV2UDh6ZGw2X1U0eXJMY0FZR29MdC1xRGRsTTYzRQ?oc=5",
+          "domain": "mississippitoday.org",
+          "publisher": "Mississippi Today",
+          "seendate": "2026-06-23T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Politics"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-06-23T07:00:00+00:00"
+        },
+        {
+          "title": "Jackson passes state’s first data center moratorium - Mississippi Today",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFS0RLWGpDamRvblZQN2E4aE02VWdjRVpJTUtHM2IyUi1XWmcxTFB2WVZncDQ5ZVlfZ3ZBTnBUS2VSSjVrSkRKVEVXU3hHSmFNdEs5NkU4Z0JxN2l1NlRCa1FzcmxyRkNhVUFMYVpaVldmZU1oaXd5MThGYw?oc=5",
+          "domain": "mississippitoday.org",
+          "publisher": "Mississippi Today",
+          "seendate": "2026-07-14T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Pause / Ban"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-07-14T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -3185,10 +3189,10 @@
           "date_display": "2026-05-21T07:00:00+00:00"
         },
         {
-          "title": "Amazon’s mid-Missouri data center could use 50 million gallons of water per year - FOX 2",
+          "title": "Amazon’s mid-Missouri data center could use 50 million gallons of water per year - fox2now.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUZoZEd2NmVwOS02UW1fOV95NDJVRlhZbE90ZEMzNXdqSzR5ek44VVBUcU10VzVjWkg3YTRHRjdyR0s5bERybXU2QUtLcHo4VFZ5emdOMnQteE5XT21HS3Q0dHRFdlctYk5zekdJVW9QOEQtZGlWMGhfbWEyS1paREVCczVqbzcxNzBGMkEtT252cElHcGJRLWduSG9nbV9UV1BRZ21rWmlPRFlHTWxHRExxVnTSAboBQVVfeXFMT2JVcVdLR3c1WFRVYXFKS2ctaWVtNXNxb29aWnBJV1B2c1VpMFB2eDFJOGd0a2RoYUg0OGh6a3J0WGx6RVk3RlB1OUtsMFh6aFhGX1dDN0tfTHNMZzBjLVVvdDR1YklEQ2ZVU1U0WG54SXNsRmRrVkR5b3Z4aExkVzNQVWZqejhTZ3RzdHR0QTE5LVJrZmtLWnc0ajVnYzB6cmczNXRVc0pjaC01N1VTUkZBMThOMGF6cVBB?oc=5",
           "domain": "fox2now.com",
-          "publisher": "FOX 2",
+          "publisher": "fox2now.com",
           "seendate": "2026-06-09T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -3255,8 +3259,8 @@
           "date_display": "2026-09-02T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -3377,18 +3381,18 @@
           "date_display": "2026-07-09T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
     "Nebraska": {
       "articles": [
         {
-          "title": "Gage County Planning and Zoning Commission recommends 18-month moratorium on data centers - Nebraska Public Media",
+          "title": "Gage County Planning and Zoning Commission recommends 18-month moratorium on data centers - nebraskapublicmedia.org",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZlRMNngzUURtMG4zMWdGRzEyY1JxRklQa2hYV0VON2ZxMk1YT1duNTQ5OU8yYlFINVBodWZDb0xPSkotcktoOG9qV0JDYjFLZEh3MnhTdndrbl9DVUthQkJ1aEZZVENVYzlWZm5hMUxNMGJPVV8yMmdESVE2LTRkOUdnYTJpZlVKNzViZHNYVGd2anNQdVBkQUpialo4NURVY01zeUNzQ0NYUmZaLUxkNFM3NUY2VjQ3Y2p6VkNod3FibXVTNHQzclZraVVRZlBuVjZPcllYUlY0Zw?oc=5",
           "domain": "nebraskapublicmedia.org",
-          "publisher": "Nebraska Public Media",
+          "publisher": "nebraskapublicmedia.org",
           "seendate": "2026-06-17T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 13.5,
@@ -3461,10 +3465,10 @@
           "date_display": "2026-09-09T14:05:27+00:00"
         },
         {
-          "title": "Google proposes Nebraska data center requiring more power than all of Lincoln - flatwaterfreepress.org",
+          "title": "Google proposes Nebraska data center requiring more power than all of Lincoln - Flatwater Free Press",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGVBQVNXV1QwRlB1eU00QlpwRC0wVElKQmRsbHJUQVNzbGp2MUM4SGthNEM5ckdsY3V1RW1CYmxoWGtqa19SZDQxQmozTk1keFhLS1hxMU1KS1FZMkNqckZWYUg2ZkYwZXV0ZGxGQ1A0ZC1yeFdGbW9mbWFjVVJQOFAyYTFoMnBKbTlJUlBaR2xoV0w5TjBSWlIyZFRBM3RUMkp5X0tGTkdHY1pfcHc?oc=5",
           "domain": "flatwaterfreepress.org",
-          "publisher": "flatwaterfreepress.org",
+          "publisher": "Flatwater Free Press",
           "seendate": "2026-03-13T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -3489,10 +3493,10 @@
           "date_display": "2026-03-13T07:00:00+00:00"
         },
         {
-          "title": "Nebraska lawmaker among those who optioned land for potential data center project - flatwaterfreepress.org",
+          "title": "Nebraska lawmaker among those who optioned land for potential data center project - Flatwater Free Press",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaF9CY0JEQWZUNHVUWHlOTE1SQVlwR05Vbk8tY2pYaDZabURMbURIYWlWOEdQWl9WSWQ0OUNqbkd3TjBNSjBUdXoybXJOMzM2UU9qR0QxRGNUOG13ZkNkVHNpekxPU0NZWDZJRU9sbWxpb0U5SldFWk1hTGlOOE8wM2xSUGdSd2d0ZHlLc0hwQTRqNnpwOTZ4clFvS3pVOWRhV0c0aXRXcWROQ1BSTTZxZXBiaw?oc=5",
           "domain": "flatwaterfreepress.org",
-          "publisher": "flatwaterfreepress.org",
+          "publisher": "Flatwater Free Press",
           "seendate": "2026-03-18T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -3503,18 +3507,18 @@
           "date_display": "2026-03-18T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
     "Nevada": {
       "articles": [
         {
-          "title": "Henderson City Council rejects data center moratorium - nevadacurrent.com",
+          "title": "Henderson City Council rejects data center moratorium - Nevada Current",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHVEQ1ZNbVdFV1Q0WWtES2xwMGxKSUJ1NGEtZjZQSmIxenlzSkx6ckxBejEyQzhGbThhRDFNZzlvN24ta2RHMXV0b0paWTVWTWtoa3M3Q0RsWVB0S1NSZkpUc1lkd19Pd0dxc0dsTDVrbmFhZGF1dmNWb0ZxTDBPWVN2a3RKbmxaYmswcWxPNWQ4M2Z3?oc=5",
           "domain": "nevadacurrent.com",
-          "publisher": "nevadacurrent.com",
+          "publisher": "Nevada Current",
           "seendate": "2026-07-22T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 13.5,
@@ -3527,10 +3531,10 @@
           "date_display": "2026-07-22T07:00:00+00:00"
         },
         {
-          "title": "Nye County water board pushes data center moratorium - nevadacurrent.com",
+          "title": "Nye County water board pushes data center moratorium - Nevada Current",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnl1Vnk4cnE1bVVLaDZralprZmRzUktTdDdUMnJhcmhKeUU0VjAya0lWRkVuRzFzcU9CTnZiS2hVa2M4QW9veFllOTFqektST1ZtWF93WHhMYTVSTllqRzZzREJ6ay1kQkx2QUF5bzRlZncydDVNZlZFSHQwWXlTT3IzVkdyOFRMZzRKMDRvX2pCY1hM?oc=5",
           "domain": "nevadacurrent.com",
-          "publisher": "nevadacurrent.com",
+          "publisher": "Nevada Current",
           "seendate": "2026-05-27T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -3542,10 +3546,10 @@
           "date_display": "2026-05-27T07:00:00+00:00"
         },
         {
-          "title": "Reno City Council extends data center moratorium, promises effort is not political - nevadacurrent.com",
+          "title": "Reno City Council extends data center moratorium, promises effort is not political - Nevada Current",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGR0TDVYaHJfNDl6V2YzQXNsRVFMOXNEQjdSNFJxTUdPOTFITnJiaHVnbjRhSngxV3hwVlU5UGNyNy1sdVNjeThkNWw5VU0tbXFVWnJpaWRuV3FhRFQyTWtuaDdVaU15YzdHRzJHeC1YYjFpaWVueVpQVnRJQkpLVDIyVFYtYWpRQzFEQ2ZNRmpCUTRaU1JxaFpEbW5wUmgycHdVUS1hNmtqR05rM2xocDBIUTl0U0JKMDhV?oc=5",
           "domain": "nevadacurrent.com",
-          "publisher": "nevadacurrent.com",
+          "publisher": "Nevada Current",
           "seendate": "2026-06-03T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -3557,10 +3561,10 @@
           "date_display": "2026-06-03T07:00:00+00:00"
         },
         {
-          "title": "Henderson rejects data center moratorium, instead exploring code changes - thenevadaindependent.com",
+          "title": "Henderson rejects data center moratorium, instead exploring code changes - The Nevada Independent",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdF94WWdWS0RGUFJiUDlGYXpZSUJnNTJZYzNBYW9GWl95V2dBSWVTWXYxd0psTGNWTTJYXzQyNlpUam9TLTRGYndhQXd6R1lDSVNyOFlaeVJnNXZ2Q01hQnpWN2gwS0tBX2xUT0haUGpFVFlUdlJETXVtV2VzWW1MazBsd2RaaG05b21qNmtIc2lRTXpZZklac19RSDVvQklWZTJLU1dfUHhFb1BHa3VPLUF3?oc=5",
           "domain": "thenevadaindependent.com",
-          "publisher": "thenevadaindependent.com",
+          "publisher": "The Nevada Independent",
           "seendate": "2026-07-21T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -3576,7 +3580,7 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWG8zTVNWemR6VEw4Ym9ZMUM1cDBxMHkwa3o5SmdwZHQzQjBnUFlucWRCLVlZRXF3N3ExU3ZFaXVlYXdOT0VPSmUwTjdYUi14eFh1VmFCaEdvSllFMUZKSnFoU0tVZEZVZGNEd0E3NlBhMU04anJ1Z2MxRWpGRS01MXFyMS13OG80S01odTNTUjcwNUI4T1Q1SjNpZ3pQMHVnUFB4a2xvbzM3WXltdTdlLVhvLUViWEs4dURkVTg5ZUF1aTFxUHczMXR2a3pya0Z1dW8w?oc=5",
           "domain": "datacenterdynamics.com",
           "publisher": "Data Center Dynamics",
-          "seendate": "2026-09-08T11:05:54+00:00",
+          "seendate": "2026-09-08T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
           "tags": [
@@ -3584,13 +3588,13 @@
             "Project"
           ],
           "tier": "Discovery",
-          "date_display": "2026-09-08T11:05:54+00:00"
+          "date_display": "2026-09-08T07:00:00+00:00"
         },
         {
-          "title": "How much water and power do data centers really use? - thenevadaindependent.com",
+          "title": "How much water and power do data centers really use? - The Nevada Independent",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZHdKZUladW5WOXB5RlBEcURUTnppamRTR0ZDN3dIZjdOZk5Pd1JXSlNRNWFQWU1Ta1l5OWFjM2VDamJtaFlWYkxCWG9rOXJtbVh2b2c2d29fTTZNcHR2QVJTTkZRdWdNbTc3WlJyb1JLUEtsSlpNRzE3cjBsaWFpZjhiS204OXZGSHRtcTk4UDgxSGdBNHpB?oc=5",
           "domain": "thenevadaindependent.com",
-          "publisher": "thenevadaindependent.com",
+          "publisher": "The Nevada Independent",
           "seendate": "2026-09-16T09:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -3602,10 +3606,10 @@
           "date_display": "2026-09-16T09:00:00+00:00"
         },
         {
-          "title": "Nevada governor candidate Aaron Ford pledges to pause new data center tax breaks - thenevadaindependent.com",
+          "title": "Nevada governor candidate Aaron Ford pledges to pause new data center tax breaks - The Nevada Independent",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckZmZnM4WVFOcXZPNU1vZVZhcVJUaEF3Y3FZeXhiTTR2VWRIbHJKNG9ldzVMNHBzVEJRY3ZtWkdhenhrZ2lfUmJOdzFEM2g0djFGWVlBMlMzbzQtVVJxODFRNEdJTDJpNFZwOHdTcWNHMDdGQ0llOVRQQ2JKZFluZWVidUIyUmtVbHhYRTZDbVluT2cxUFlWNXdFaEZIak56d1FyUXlBM296M3JteTJaN05YU1h5MExNUmVETVZB?oc=5",
           "domain": "thenevadaindependent.com",
-          "publisher": "thenevadaindependent.com",
+          "publisher": "The Nevada Independent",
           "seendate": "2026-08-19T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 11.5,
@@ -3632,8 +3636,8 @@
           "date_display": "2026-08-28T20:43:56+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -3726,10 +3730,10 @@
           "date_display": "2026-07-03T07:00:00+00:00"
         },
         {
-          "title": "Developer may bring controversial data center proposal back to New Hampshire as town seeks moratorium - thecooldown.com",
+          "title": "Developer may bring controversial data center proposal back to New Hampshire as town seeks moratorium - The Cool Down",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3VXaVFqc1hWM3ZTMFBZaTVYTWlmcnJMSmw4N0JSam5PMlQwVDVLRFRROXJQbm8yeFJock00ZnlRb0tkS1RUbUF5UmRLbXFXUkR6RS1nU0o3dUl5RVduQkxTNmhtWkQ2enBmY0l6dk1zWWpUQU1oTFJxX2h6aTl5RUE1SEh2bUI4Y2Y0Y0lVQnRGUWc?oc=5",
           "domain": "thecooldown.com",
-          "publisher": "thecooldown.com",
+          "publisher": "The Cool Down",
           "seendate": "2026-07-03T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -3754,8 +3758,8 @@
           "date_display": "2026-08-21T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -3806,38 +3810,10 @@
           "date_display": "2026-07-01T07:00:00+00:00"
         },
         {
-          "title": "Orangetown Board Approves Moratorium On New Data Center Applications - News12 | New Jersey",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOW0xTlBBZm1VbWxNVV9WNHpkN1djN1N3d0tlRWh5Mk1laWs4ZDB3QlB0LTR1SklQZFVUcmY0VklGVHN4ZE9SUlNwU21oZTBTZTRINEZtX3BDTkdEdlJtcVZzYnBrd09ERXk2NzZrT01kR216T1ZtMG1oTlZodWFINURuUnBMS1Z5TEEzS2lTNWRLaEhSRXBtZlZhM3hvZGxmQkRfUm5qRTlSMGVVeXF0RzJxWWd2MnI0Ry1jbUZHdUZWdkliMjluUHdxZw?oc=5",
-          "domain": "newjersey.news12.com",
-          "publisher": "News12 | New Jersey",
-          "seendate": "2026-08-25T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Pause / Ban"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-25T07:00:00+00:00"
-        },
-        {
           "title": "Data centers must report water, energy use under new law signed by Gov. Sherrill - New Jersey Monitor",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNHZSa3lpR3ZKR1pON2wxLUNSSHA5R3d6eDV4RUktU0llY3pBR1dTLVg1aTc0MDhITnk3MVpIMnhSTzJpT1VGZExtb3RzOHIwMDFLZWRocDNWYlBfOHkzMG9JaHJGRDBJYS05dGpuakZudWxHemdfTThXRXV2ZmM?oc=5",
           "domain": "newjerseymonitor.com",
           "publisher": "New Jersey Monitor",
-          "seendate": "2026-08-27T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Water"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-27T07:00:00+00:00"
-        },
-        {
-          "title": "Nj Data Centers Will Have To Report Energy Water Use Under New Law - News12 | New Jersey",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWQxdXJGRWJ3LWM5bVZ2SFhXMG50a3BDZVpBRVh3U1FSTnY0M1oyZi1EVmpuczdESXhIeFZheHhQa05HT0ExWHpjSy1WS1FlWWFBdUZDZ0pJYjhuLUFKX3JlRmJta1VXUXdxNnFJd2xHNlNKTFNJRjJ1eTZ2Y0pGRVlrZi0zMEdxOXNzRmlQeWNhd01VZUlRb3hyaGZEbFppaEx2eHc5d2w3NDhTZlhqLVpJYlBiWmFxY3pNN3ptdEZrVUEyc1Vn?oc=5",
-          "domain": "newjersey.news12.com",
-          "publisher": "News12 | New Jersey",
           "seendate": "2026-08-27T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -3875,10 +3851,40 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-07-28T07:00:00+00:00"
+        },
+        {
+          "title": "Housing & Environmental Advocates Urge Montvale Mayor to Drop Data Center from Affordable Housing Plan - Food & Water Watch",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVB0UlBJTVpsRHJrY0FSTlJRdWxuRzZPcU8wYlVEaXZjSks4UXRzX2Jua2xFSF9RSUhoRDZKY3BxUHRNN2pnd1J5ZWZuM2lFanBtQTd4ajNTdEwxQlp4QV81RjRuUW1udWpBRFJOMlcydEsxUVU5elZucHA3Z0VmUGJDTWQ0SzNjY2czdUljMXI2YXdIcnNuWXN6azlNVHVrU3Izb19zNDJmNUVmZnFKV0p2UDlsUTc4YWRNeDFBWGpDWk1aYTQwR20yZVN3Mnk2cFA0cks5eHF3VDBxdWRJ?oc=5",
+          "domain": "foodandwaterwatch.org",
+          "publisher": "Food & Water Watch",
+          "seendate": "2026-07-31T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.0,
+          "tags": [
+            "Water",
+            "Politics"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-07-31T07:00:00+00:00"
+        },
+        {
+          "title": "Vineland data center makes case for on-site power generation during 6-hour hearing - WHYY",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IclZnWGNJZE9VRVhORzBqUm1HNU52Mm93Wm8xUndveVF0OFQyXzVLOURGT3dMd3ZiSFktVzdRTTZFaVVQZXpXMEFBcHRwZFpfRU1GeHlmSTBhRDlkc214T21OSjFDWVVBVG9FTS1aUmFiWDNKQ3hfMko2NlA?oc=5",
+          "domain": "whyy.org",
+          "publisher": "WHYY",
+          "seendate": "2026-08-06T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.0,
+          "tags": [
+            "Power",
+            "Permitting"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-08-06T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -3900,10 +3906,10 @@
           "date_display": "2026-07-02T07:00:00+00:00"
         },
         {
-          "title": "New Mexico Environment Department to hold hearing for Project Jupiter data center air quality permit - sourcenm.com",
+          "title": "New Mexico Environment Department to hold hearing for Project Jupiter data center air quality permit - Source New Mexico",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ09NOEJpTnpCRVZyTDdIcVMxdERFQnRRTGNVMW1CUjg2TkFfM0lkZVFMNjJ0am01Ump5dkRwVjhiSmNPZUhBOTBjT0xXQzU1cVg3Q1FxVlkwRGtUWUM5R0RqVUEzWGk5VktfQzQwVl9jcDdWZVBhR1ExaHdlVWNPb0Ytc2xsSUE5RUdUUWxyb1RjUTdrWHBnb2JJZmRELWtGZVNzOUpkME5FUU1FN0QyS2FxeW5PSmtHM1d1b0JoazFsZFpNYnBwUzZYN09aZw?oc=5",
           "domain": "sourcenm.com",
-          "publisher": "sourcenm.com",
+          "publisher": "Source New Mexico",
           "seendate": "2026-07-07T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -3915,10 +3921,25 @@
           "date_display": "2026-07-07T07:00:00+00:00"
         },
         {
-          "title": "New Mexico Justices Pause Permit, Hearing For Data Center - law360.com",
+          "title": "Hearing for Project Jupiter data center’s air quality permit application rescheduled to September - Source New Mexico",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTE1WZTcyRVc5cnZVU1l4Rm11SGxQTXgtVEwtYWJVelZmV0tLM3NBbjJIUk9IWUg1S0YwMjdzZ2VkNl9NeWhaa0lvWVVkS0xHMzkwNXJ3cTJtSWxIQWd6T3ZRd0s1YldCUzhOcDdCZHVfZ050bmVSQm1aMUFpdjVkb25KRTRvVFZSNlRvYVo0VTFKMUFTYTZ5TEhYVFlLU0ZUX1dNMm5sRnNGSG9fcFNaTWNJSUw3M0szaXJqRTFXeHhXNzFLYUU2eQ?oc=5",
+          "domain": "sourcenm.com",
+          "publisher": "Source New Mexico",
+          "seendate": "2026-07-31T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 12.0,
+          "tags": [
+            "Permitting",
+            "Project"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-07-31T07:00:00+00:00"
+        },
+        {
+          "title": "New Mexico Justices Pause Permit, Hearing For Data Center - Law360",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGwtWFdZZG5GZ05vSHc5bnlORVpDdTduYzZsN1k1bFBaNkxWYjNzTGhrd21CXzhUb1VEbW9SMWdEMXY3SWpJazlCVWdlNHpUNDA3X2w2NzBVUjMzUFlmb0NUVXp5eUtBNGdXWmVfdVdYOEpmVnJzc2tKdWNxMUtiU2dLTGc1N2xCN1g1SV9hbmJJbzZzSWJ1ejZ1dm5sRjVoMXU2RmRBV3VqdFRkSFp0eWhZMU5jcmpveHfSAXNBVV95cUxNeE9RamhEVjFNYWROal9MOXV0Q21WYm9OdmFSc2FjOUhXbXdFdk9rOUhRcmY4MkdnT3JEXzFoQnFhNkZ5dWVSSnRDcXR2NFo4SWJBWGtrODFjMnRzQUJvUGg0SHNpVk8zMW1iRXJnQVVPZVpR?oc=5",
           "domain": "law360.com",
-          "publisher": "law360.com",
+          "publisher": "Law360",
           "seendate": "2026-08-25T20:04:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -3945,10 +3966,10 @@
           "date_display": "2026-08-30T07:00:00+00:00"
         },
         {
-          "title": "US Rep. Stansbury voices concerns about New Mexico water use for Project Jupiter data center - sourcenm.com",
+          "title": "US Rep. Stansbury voices concerns about New Mexico water use for Project Jupiter data center - Source New Mexico",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklhNWRfM0VtcVVTOGhJWDJmdHBfT2RWalVIQVEyR2NpSkkzWHRuMmk0dGU5RjRkdzMwZmNxdExyVHpqSVFGQjZQSEd4ajQxdWpiWGV4ZG1uRFBnempOUm1yTmdjMFJEbGZzQWRyemtFcVlUY1hoNWNMTXB6LS1jOHdLTVlFYTNHNnNseVdocnNoQVJtNFlReHhsYlZUUGRrUC04eFdPT1ItelVBZzlZRE5qYWxpMlR2Wi1GUl9pNDZKUQ?oc=5",
           "domain": "sourcenm.com",
-          "publisher": "sourcenm.com",
+          "publisher": "Source New Mexico",
           "seendate": "2026-09-02T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -3975,11 +3996,11 @@
           "date_display": "2026-09-02T22:00:46+00:00"
         },
         {
-          "title": "In New Mexico, massive Project Jupiter data center faces criticism over water allocation - kanw.org",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHpYOWRteUl0QUVjTTVzWW1IM0dGdVVxaVhpQWFDQ2VXbWlGYnFtRnFncWZ2Q1hQRlNCdEsxXzhiV053UHJ0ZU5kNlRWUUlqTUFyc29OdVc0b2gtMXZldDZhVUpBOXlzT2RjYmxSVEhYWHRLeWUyQUgxNWJpbWNxVy0xVXpVUmVEWjZwemlNeFBQejN6VUtxd0c1Q0ZLMGNDYW85SXhmS0NsdDZvQVdtTkY5MnNCWnRZQS1QeUdJaVNGTFhMbWk1eGppV1E2QzlS?oc=5",
-          "domain": "kanw.org",
-          "publisher": "kanw.org",
-          "seendate": "2026-09-04T07:00:00+00:00",
+          "title": "In New Mexico, massive Project Jupiter data center faces criticism over water allocation - Wyoming Public Media",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaXQ1dkVJVkJoTHlzOTV3ZFQwRG9pNm1EbGtHYmhDY2EyTEZ0Q3BMTlEzMEd2c2dPUTNRTGxOTlhnRDA2RUlsOVNVQTM1RXhfSTNycmFPbC1yR2x6VjA2OFMtdXFaSlQ3SzFfa0s3ZWtONk1iSmYtcExTYngwVUtZT2NBQXJURldFVTVEcFlrM1kwaU9QWU1zNGtMV2M0VkxLR2VFWjJ0Yk1mVUMycE5WWGNGSTgyTElwYjY0eHUyYl9BeFRVeUttNE5Gd0UtZw?oc=5",
+          "domain": "wyomingpublicmedia.org",
+          "publisher": "Wyoming Public Media",
+          "seendate": "2026-09-08T19:58:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
           "tags": [
@@ -3987,25 +4008,11 @@
             "Project"
           ],
           "tier": "Discovery",
-          "date_display": "2026-09-04T07:00:00+00:00"
-        },
-        {
-          "title": "New Mexico county officials approve process to consider data center moratorium - sourcenm.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVnZBbEVZTHdMUmVUNHU5R255YTFIMFZIelNtZGlTM3dTbGl6NEJEbEpxTnZfNDJFWHluQm1DaVBoUlFWRS1FekVzNlZZUExiVUdhTzlXVjkzQVN2dXhFM0FUTzRPQTU5ZWV4LVJjc2pFS3VOT25HVEVUVURpN1RUaEt6S2VIYWdfMzdmWUhKN3lyS2NvZ3FoMmpZUDNuOTV2S01Kajg4TVlPSk9ua1FKeA?oc=5",
-          "domain": "sourcenm.com",
-          "publisher": "sourcenm.com",
-          "seendate": "2026-05-13T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Pause / Ban"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-05-13T07:00:00+00:00"
+          "date_display": "2026-09-08T19:58:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -4116,23 +4123,23 @@
           "date_display": "2026-07-21T07:00:00+00:00"
         },
         {
-          "title": "New York Just Pressed Pause on Large Data Center Permitting - Foley & Lardner LLP",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFo5YVdNTE5Oc083TVdCcFNXZ2drZHZTTjBzVWpDSWFBYU44MENYdFFQNVF2NGFJc2lYTFNlVHJuSVVTaEwycXRYMXZvOTJrQ3lXNnFjeE84aVZvc1M1ODZlbEl2NW1GSEt3OHR5dmlfVVliOEJ1aTNDSFhGMHlpMmExZnR1QXFkdnJhZ2lRRFdqdXphcmdXQWVqd1JOX1pqMG9rVHN6ZmRMY0s1OFdpUF9R?oc=5",
-          "domain": "foley.com",
-          "publisher": "Foley & Lardner LLP",
-          "seendate": "2026-08-03T07:00:00+00:00",
+          "title": "Behind the New York data center pause is legislation that could impact existing facilities - Utility Dive",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWVJYXgwOExQZVJzdnBSMnhjSzIzU09tNXduYThFaUFDUWlBSU9PN1NIMmRucUhmQ3QzeVhTOTk3cTdTZHVacDY4VWlnZkRRRzJDMXB5Nnk2TFRibVdzZjBza2YyeG9LNkQtRmtfb2dhZE53LUdiSUJHRHhFTTBiYzF5YnAzZ011UG9CRmxiQXB2clhVLUMwbTIzVnZrd2pZNktnMElOVDhkQjZCRVVodFV1cFN0MkU?oc=5",
+          "domain": "utilitydive.com",
+          "publisher": "Utility Dive",
+          "seendate": "2026-07-28T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
           "tags": [
             "Pause / Ban",
-            "Permitting"
+            "Power"
           ],
           "tier": "Discovery",
-          "date_display": "2026-08-03T07:00:00+00:00"
+          "date_display": "2026-07-28T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -4182,10 +4189,10 @@
           "date_display": "2026-06-15T07:00:00+00:00"
         },
         {
-          "title": "Data center moratorium fever grows across North Carolina - The Charlotte Post",
+          "title": "Data center moratorium fever grows across North Carolina - thecharlottepost.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjFPcDBvd2g4NjNvR29NclJRM0Q5VUVleVdnOXRNaGpYY0NzWkRvWk5Qc0hvT2dtUVFSMnhrajMyTk55bnhOYWVfcXRJcm51Q2g1ZUhDcTlVZ2sxVVhNZlZJWG8wY29pOVNxa3F0Z1FXQllXU1hFbXdTb08tVGxCOGJHZ3BoeHVaTEV6eGtjUlZwNWtKaTFZUkE2TVR4d3dNZVZwUGVLWWJtTlozcE9nRU8wQndOREJ0MEE?oc=5",
           "domain": "thecharlottepost.com",
-          "publisher": "The Charlotte Post",
+          "publisher": "thecharlottepost.com",
           "seendate": "2026-06-18T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -4252,8 +4259,8 @@
           "date_display": "2026-09-02T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -4305,10 +4312,10 @@
           "date_display": "2026-04-29T07:00:00+00:00"
         },
         {
-          "title": "Armstrong statement on North Dakota legislators establishing interim committee on AI and data centers - governor.nd.gov",
+          "title": "Armstrong statement on North Dakota legislators establishing interim committee on AI and data centers - North Dakota Office of the Governor (.gov)",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0ZzeEx5YXNKMDE0RGNmbXBveFhwOThvNkpnenlLNHZXY0l6VW5yRjNfd1U2WmQwcnRjaXh1SjVPYkxoRnJ5MmlLazRxQVBmWXNINEJrS2J5bjdrYnAzYmNrS0VsV05LUGEtYzROTzd5SkZ2d1lRUVMtYTFaZExpNGUtTFRCdmRYSjZHOUhmUFFYeEo0d1MtYi1CSGFDdTRadkZvQkpnemxYcGcxeEtvWms0VXhDQXk0QnZkeQ?oc=5",
           "domain": "governor.nd.gov",
-          "publisher": "governor.nd.gov",
+          "publisher": "North Dakota Office of the Governor (.gov)",
           "seendate": "2026-06-25T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -4375,8 +4382,8 @@
           "date_display": "2026-08-11T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -4411,21 +4418,6 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-07-29T07:00:00+00:00"
-        },
-        {
-          "title": "Ohio governor candidate calls for ‘immediate moratorium’ on new data centers - Cleveland.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV2dNc0VEQU9rMjdDOHBlbkN0MkVSZnk0cGo2LU9jR2pFOTItb3loUDlyQlJJSndoMjJkRHNoZ3BGQ1VJUHVoVFF3MFY1bF8tOHhaOXZsSmp3di1Xc2Y1X0U1VmUyZFRJNU9rUFVmektKQkVnN1BlZ1YyVmJTVXg3STFLU3QxeUxvX1p3T2RWWWhUZkUwY2NpWTk1a0xIa254bGNXRjZGc19ZbVNFNEd6cW9yeE05VmJ2cHfSAc4BQVVfeXFMTVJIVE44cV9zbHJhc1lZQjNrcGtmM1BUamVHckxMSFdUbEZFcUhwVXBodklNZkxMR1diYnptNU94bXdYQWhMQzZzRnRHbE1DUmVpM3Z4WWNFNG84SnY2ZzhJLUdQNEp3TUp6UnUzVnJYdEp6cThJbDByN1RfeF9saUVqMklLTVZ3RENxTHVUOEFCWE9vd3U5NG5DaTBMdXZ2SC01VklMa3FRellkcXVWbDJMaEdpQXZmQ2lxb0pxNzNRX05XQTZ6RkdwNDNsU3c?oc=5",
-          "domain": "cleveland.com",
-          "publisher": "Cleveland.com",
-          "seendate": "2026-08-04T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 12.0,
-          "tags": [
-            "Pause / Ban",
-            "Politics"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-04T07:00:00+00:00"
         },
         {
           "title": "Trenton Must Place Data-Center-Ban Amendment on Special Election Ballot - Court News Ohio (.gov)",
@@ -4497,20 +4489,34 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-08-07T07:00:00+00:00"
+        },
+        {
+          "title": "How Massive Ohio AI Data Center Power Deal Will Impact American Electric Power Company (AEP) Investors - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0hRY0hZdWdBTTdob0x6RUFWVVVjU2pkN0ViVkJ4aDBoMGQ4ZEU5em9IcEl4UGdYYkVxUzNHVUdFVVRsMGxmLWF6Y2txZGh1YXVnQTU4RG5pQ1JqbWtDdlctSjJZRDJ5TVBhLUJxSWM1TG12ZVNHdnhPMXR3c0paaVZITVQ0TlhISUdjT0pwV2dLTklLb2c?oc=5",
+          "domain": "finance.yahoo.com",
+          "publisher": "Yahoo Finance",
+          "seendate": "2026-08-19T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Power"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-08-19T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
     "Oklahoma": {
       "articles": [
         {
-          "title": "Oklahoma residents seek ballot measure to halt data center until water, noise studies are done - thecooldown.com",
+          "title": "Oklahoma residents seek ballot measure to halt data center until water, noise studies are done - The Cool Down",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcm00QkVRZ29sVFdyUnN0NEF4dnBMZmIyVU1LRTNFTm1OeDVrUlFhalZ3cnJNYU5iV05SeVFXNXpzU1F4R2FfWTdZdlgyOXl4NFlzRjlxLWdoa2tfRWdkdkdxWlUycDlmUFZXTGNfMUtzaUxBek5QMnBCVDlYNGFxU2JDVGU1eklzWjlWenotWVdSYUE0VmU3TTZaYw?oc=5",
           "domain": "thecooldown.com",
-          "publisher": "thecooldown.com",
+          "publisher": "The Cool Down",
           "seendate": "2026-09-03T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -4606,22 +4612,22 @@
           "date_display": "2026-07-24T07:00:00+00:00"
         },
         {
-          "title": "Oklahoma farmer, data center CEO back bills signed by Gov. Stitt to protect ratepayers, water supply - KOCO",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM28xZUl5S1Z5NHRWSUFVN2VXdlNWekxYZ0V3bUwxVW10UEZySVRCQ3lKWTVYcVBBQ0FIam9sNUxreVZSYnR3MEg4MGVTRWtZUTFIREdKRy1UN1FzR3o3SkRnZ0NDTW9JMjNRUVFKRUxYWGF5SW42bHc4SFoxUlNycmpQWFdLbnVf?oc=5",
-          "domain": "koco.com",
-          "publisher": "KOCO",
+          "title": "Some data centers are building their own power plants. In Oklahoma, most want to plug into the grid - Oklahoma Voice",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdTUxOTVOQW1IdTVnNUJUSkUtN0p2RW9wUWVxYjNUdnFBX3ZXZ3U3eGU0dG9IZVRyTkhCOUZqaGJ1TTREcHFxQ0tNUzc3a2lUUFRaeFVBTk9uVU5ra1hkNWpLZ1c3eC1VSHYzcmlmQ2E5M1VCUmxyTmh5TE93Vmx1X3ZEY2h6MFdwc291MnNXTDBPejFqa29uVFB4WTlHQ2x3YTByMnhqbnFCNS1VUE1PdS1ZQTdicTdMNmI1Q29tb29qNXN4T2F3aFd0NXhSMlow?oc=5",
+          "domain": "oklahomavoice.com",
+          "publisher": "Oklahoma Voice",
           "seendate": "2026-08-06T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
           "tags": [
-            "Water"
+            "Power"
           ],
           "tier": "Discovery",
           "date_display": "2026-08-06T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -4745,8 +4751,8 @@
           "date_display": "2026-08-04T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -4798,10 +4804,10 @@
           "date_display": "2026-09-11T11:57:20+00:00"
         },
         {
-          "title": "Pennsylvania commission warns rapid data center growth could impact electric reliability - abc27.com",
+          "title": "Pennsylvania commission warns rapid data center growth could impact electric reliability - ABC27",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M3RzVoU2NPNXZ3NE9KWEJRYl83YncwVG15SUlqdV9tZDRWVWlrd1c5TmVLSHNpNmNMZlJzNHhPMGFSZVdhMWtaaDVTcWRlTVVNOENXa2poOTZmNkZSX1ZHcE5ETDdZenluVWRQSmZOR25EYVB6TkdockVzUHgtQXRrczBmNHY3TVFiQXhPZTYtTmFsX3Q0QlVGVFVSa0ttQTdYUmtja0hhRDNHYUFXb3RxSGlJOEg3MDVNbXVrXy1sQdIBxwFBVV95cUxQRF8xcTNyZ2pyZFNaTlZINTAxMk9qdDNYMGdGclBVNG02TF9Vb3pXb1ptRVpYZmNFWXJHdGV4MC1jZE1YdmVXQU5LZDRfb2l5RHBDVnAzVkZpZFR1MHd5ZjluU0QwVmxwYTB1cDZIeVVGbjdBZ2lhb3FTNTJGUkYwallIaUd1UHAtQ3RFRDNxQ2ZZR2tUaF9OemwwWlIyRmhWVHYxX28yZUNfdTZ1bVJfSDZkSXVMYm5WVFZ1U2dYNjVocHpFYWkw?oc=5",
           "domain": "abc27.com",
-          "publisher": "abc27.com",
+          "publisher": "ABC27",
           "seendate": "2026-09-14T17:10:19+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -4827,10 +4833,10 @@
           "date_display": "2026-09-01T07:00:00+00:00"
         },
         {
-          "title": "Pennsylvania’s New Data-Center Rules Aren’t All Bad for Power Companies - barrons.com",
+          "title": "Pennsylvania’s New Data-Center Rules Aren’t All Bad for Power Companies - Barron's",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDhPc2RheHVLQjI4S2trRnlQSnFSbEhRX3d6QVgwUUEyQmhSdDFrQ2RKOXVBOVh1dnFCS2g3N0JHT3MzUUp6Y1dncDhxRHJsaEEwMmNKWTlwUzZKN2dtcmI1UlRlQXNod0w2UUFQeXluY2xQYXQwcFd6bXByMXZFdjc1enJkclhWV0d4QTNXNHB2TWV6Rng2SVAxc2NhQWtxWnB4MHVzd1oxaHpnY1d6ZQ?oc=5",
           "domain": "barrons.com",
-          "publisher": "barrons.com",
+          "publisher": "Barron's",
           "seendate": "2026-08-19T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -4841,10 +4847,10 @@
           "date_display": "2026-08-19T07:00:00+00:00"
         },
         {
-          "title": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs - POWER Magazine",
+          "title": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs - powermag.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFZjR1JxNHJ0ZlBlNFNTOXA2SlJYYVhmTy1EOE82MTY1YUhkN2lSUUkxVzZFUWVzUWRqNTFTcmp2U3Vfa25DSWpJVS1tT0dETEpmbW5WRVhWQTNpbzZTMVZhTnc3MWRfN0d1SEp0d0ZaNWxSeFJjcUg2Y25PNjNKdjdBY21PLWVmTDBsOGZoUEJmakp4YWJreFFjNWFGN2xXUlJfWjQ0QkV4T2pvOUFFMXdn?oc=5",
           "domain": "powermag.com",
-          "publisher": "POWER Magazine",
+          "publisher": "powermag.com",
           "seendate": "2026-08-20T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -4869,8 +4875,8 @@
           "date_display": "2026-08-24T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -4964,10 +4970,10 @@
           "date_display": "2025-09-22T07:00:00+00:00"
         },
         {
-          "title": "Utility PPL Makes Moves to Meet Data Center Power Demand in Kentu... - Industrial Info Resources",
+          "title": "Utility PPL Makes Moves to Meet Data Center Power Demand in Kentu... - industrialinfo.com",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS0xQdm1LMEFud08yV1AwZmZ1S2lvUFhiYS0wSU1UcjZyUXNIeTk3b3lZN2s5X09TLU93Q2htTVBJODkzaWVZeGI3UExEWVlxX2RHX0VOSHJqaWprTDVqSEFMQzNCamx1Y3ZyUlBpaExLTWZGem41R3JHY2FIS3Zyem1JTzRncEdzR3hMamIzYnhremJXeFpWbmVBYVNLQS1vVm5WZWNibjJreGJxUmVvOW1jS1pqSk4zMmo1UU00Y08zRXJldTg3M2N0emdKdTFXcGFBMXRTOUVpU01sM1hhX3ZNNUlhcEE?oc=5",
           "domain": "industrialinfo.com",
-          "publisher": "Industrial Info Resources",
+          "publisher": "industrialinfo.com",
           "seendate": "2025-11-07T08:00:00+00:00",
           "provider": "Google News RSS",
           "score": 8.5,
@@ -4992,8 +4998,8 @@
           "date_display": "2026-02-23T08:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -5057,10 +5063,10 @@
           "date_display": "2026-06-18T14:46:54+00:00"
         },
         {
-          "title": "South Carolina county heard of a data center plan, then advanced a moratorium - thecooldown.com",
+          "title": "South Carolina county heard of a data center plan, then advanced a moratorium - The Cool Down",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb2ItTXNnWXQwbUF4anlJbmIyOF9yVjYyM2t0OC1GYl9nLVVxdEtvaGhSU3c0WmlsYUgwN1VRTVBJdmw0a1BNQXVyTFFZWGk1eTk0MWNoMlc0cjNMNFNNeXg3RWVVNWZfMGV4blVYT1BfMzVMWGdoZURwZ3d1TEJkTFhYYjdtQk0?oc=5",
           "domain": "thecooldown.com",
-          "publisher": "thecooldown.com",
+          "publisher": "The Cool Down",
           "seendate": "2026-07-31T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -5069,20 +5075,6 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-07-31T07:00:00+00:00"
-        },
-        {
-          "title": "Spartanburg data center not subject to public power plant rules, SC regulators rule - South Carolina Daily Gazette",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0pWOUJTdURoOUtYZU9mU2JHM0J1aC1obDVxWDBJT01JY0FfcEdDZDV5QXIxalpyWWhHay01Nk0xbEhDLUZpUHpiNVVkY2dfNWwyQ3JaOXNnRHlsSzNWSmJnd25VZ0J3aTRHVXJPa0dta2RyY21mYklWTTNMSENqX3k5RGFiUUltcVBsbk5IZ1ZOMFBZOWQ2bFhQMmlUbktZbi1XdDhGaFZyQkoxOU50NERyb01lQjVjcW92Ujl3?oc=5",
-          "domain": "scdailygazette.com",
-          "publisher": "South Carolina Daily Gazette",
-          "seendate": "2026-08-27T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-27T07:00:00+00:00"
         },
         {
           "title": "South Carolina Public Service Commission approves nearly $3 billion data center - WYFF",
@@ -5111,10 +5103,24 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-08-27T07:00:00+00:00"
+        },
+        {
+          "title": "Protecting consumer utility rates from data center pressure - South Carolina Public Radio",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0N0aUQwbjl1R0ZiSjRIcDllVjUtRjNkQUtheWZ0S05WTWZsM3hic2psLTM4U0dBUFJNNG40WC1HUmgydGUxZ1NnTE40czhnZ2tXUHA2a1RXRXc1WTlmeFIxM1gtVFcxQzFHVERuSGdzX3kwZDNUWFBoRHE0UG04cjNzVUFKV2hrRF9PTGxLLS1ENHJrc3VydlJQM0JobHctaE5jRFUwbktkRmU0VHRVMEpSclcxaHA2ZXNGZmI4Rl9jTmR2bEQwb0FMVE5jdE5KdUxCQ1o1cDAwUnR1SmJrdA?oc=5",
+          "domain": "southcarolinapublicradio.org",
+          "publisher": "South Carolina Public Radio",
+          "seendate": "2026-09-16T10:30:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Power"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-09-16T10:30:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -5136,18 +5142,32 @@
           "date_display": "2026-09-01T07:00:00+00:00"
         },
         {
-          "title": "Meta’s Natural Gas Gamble: AI Data Center Power Demand Rivals South Dakota’s Entire Grid - CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KTWFwcHk5SXZRbmMtbHR6dGtlekUzQVBwUlJoZEZKVXZoQ3E3TVdxTklUaXkyU0kxQTJzTXhoNTh2T3FPT0w2OTFXSkluakwwM2lYWl8zSno2Y3REbGhjMEw4NEpia0FNd3lDeE9vVnRVSFhC?oc=5",
-          "domain": "cryptorank.io",
-          "publisher": "CryptoRank",
-          "seendate": "2026-04-01T07:00:00+00:00",
+          "title": "South Dakota inches toward studying nuclear power as data center energy demands loom - South Dakota Searchlight",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVlNOXU1c1RVTFY2T3NIbkFYbTEwVk9icWlLamZxSXFRb05jQjcwRWdXbFhfOEs2dXNlZnVJREduRmVHNnQyRFJLX252M0hiQm9Ld2IzLXNWNXV3NEdFMUJkVERYTGljRGdOamlRdU1ndU54SzRfRk53YWxTNS1yM2hCclBKUjBzdE1OdFNnVGp4ZklsYWQ5OEZsR0NqOW1uaW9Bc1NPM0o1anBuU3NWdEM3N2s4YUY5Q3pNMFp1bVNza2J2VGpR?oc=5",
+          "domain": "southdakotasearchlight.com",
+          "publisher": "South Dakota Searchlight",
+          "seendate": "2026-01-30T08:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
           "tags": [
             "Power"
           ],
           "tier": "Discovery",
-          "date_display": "2026-04-01T07:00:00+00:00"
+          "date_display": "2026-01-30T08:00:00+00:00"
+        },
+        {
+          "title": "Utility company leader tells audience that data centers will extend fossil fuel usage - South Dakota Searchlight",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON1Bub1hCWFgtSWRYOWZsVDlMMS1hbTRlTDBKMG9jQS13NVhIVF9wdjlwTzlvanFQUmZMREh2S0pEZ3hMQXItTUxKSy1PWTdfMmVHeFdLUVRseTJSOG9VTExNWGktS0F2eTJHbFhseGlvb0Y4RmpEZ0ctN1VyVjV3YXlhMWRWRUR6am1JbmtWeDU1M0hmNmFUVVYxelBadGw2UUFJZWlsU3lvZWVNVjljeGNRZ1dyb0s3b2xhY0dpQkNiVDRlX3ZYa2ZacEk?oc=5",
+          "domain": "southdakotasearchlight.com",
+          "publisher": "South Dakota Searchlight",
+          "seendate": "2026-02-10T08:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Power"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-02-10T08:00:00+00:00"
         },
         {
           "title": "Data center moratorium passes in Yankton County, South Dakota - KTIV",
@@ -5192,6 +5212,21 @@
           "date_display": "2026-09-14T18:11:30+00:00"
         },
         {
+          "title": "Data center regulation bill passes state Senate sans tax incentive ban - South Dakota Searchlight",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDJSMkY1cFRTaUl2eXp4WjN0SlRlNUwxb3c0dG9wdHowZVpoX2xsdnFCTU9jbW00SllNckxfWlVZbzZhbHUtV1JQVGFTNFJ0SGxqQ3cteDNMYWVaUnQ5U1d4UDJGSWM3azNQVTlteEZiSll2OVdYMmZvYkZRRjYwVXp6T3lkWnZ0Q3NfWjVoZlA4aWJqN185dkgxT25KbURMQXRqdW83R1cwblh2TmxUd0tvX3A3TlBl?oc=5",
+          "domain": "southdakotasearchlight.com",
+          "publisher": "South Dakota Searchlight",
+          "seendate": "2026-02-20T08:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.0,
+          "tags": [
+            "Pause / Ban",
+            "Economics"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-02-20T08:00:00+00:00"
+        },
+        {
           "title": "Power project for AI data center gets North Dakota agency approval - Valley News Live",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnlxLUx4Q1dKZ1NkZXdwd1JjQVRPcm9aeU1xQkNtSWxybEVpd3ZQTnMzaVVQUEtwUzlvd3A4Nk5kQzNuRmQxZ3BCaS1uYjgxdWV4dlRkVUdndzRqTEpOTFh5LURfektLd3Q5aFZWV3RBZ0RFal9LUW9pQWNiNWZFRlM4d1hPWTl4MkFQOFJRWHhEUHdLOTZGM0V0SDNSWmJjSjRzMUR6eFjSAbwBQVVfeXFMTTdBY2JZUHJscEZyWjdnSGJYV2RFR3FpSUNXWjFnZE9Yc2dXSDY1eXpjNFlWdHlxaFg5d3kzU1gwM3VPdGVDWVN6RVFRdjBVQlAwc2xYcUZRaTJPeUNDcDlWQS1QYUFRVGJkSGd6TzROVnhuX1pMbFNwMEx2cnkzZXJIMUIyOWZGRXhHZ0t2THAtZ2JZMHlpTTRNNHV0b2Y1S2N3TVgwUVZ1YWVneUNKajc4cGVIMmJFZk9fR0I?oc=5",
           "domain": "valleynewslive.com",
@@ -5205,50 +5240,20 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-04-30T07:00:00+00:00"
-        },
-        {
-          "title": "Data Centers Have Moved Past Seeking Sales Tax Rebates, Aberdeen Council Is Told - Aberdeen Insider",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSkl2bHotazRTdVBGLWRlQ0htQlB2LXloN3pVVldrRmN2TUxXckw3enFOSWc5N2NXc0ZHbTVWaExhUjdnZU5PNFVCVUxIR1R2blJwaUdRejFUbGdVdHVIeEkyN2JLaGpMcm5lc3V0WGprckhFTHhCNzBoRVptaklldWNjN0VacElwUUY4?oc=5",
-          "domain": "aberdeeninsider.com",
-          "publisher": "Aberdeen Insider",
-          "seendate": "2026-08-18T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.0,
-          "tags": [
-            "Economics",
-            "Politics"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-18T07:00:00+00:00"
-        },
-        {
-          "title": "SD utility regulator candidates clash over AI data center pause - Black Hills Pioneer",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNnFURE5sMGM0aDZ5cmI2NE00UUlfcXR6TnNaSHJxXzRBVmpQOExZQ0xNS1hzWWFRT3JWLWM0MVpUMUtRdFlmb0pUT1JCa0Zid0NDQkpOTEloQ2NXbllfSTdHUi12SDdEMEh5VXlJTTVBUkR1WWxFZ0VCN0RKRk9CRmJGTVZJM3NUa1A1RWdqZ2phM0pqZWZLcG5BNXFQbTN1QmlfbEhKdktDcGMtMW0wcUZSSkxLdHA3MzdER1FzYkdiR05tTWQteGx0QjAzVGpzRnVFT0NNWV9ad1NNS3ppV3pkWUw?oc=5",
-          "domain": "bhpioneer.com",
-          "publisher": "Black Hills Pioneer",
-          "seendate": "2026-09-03T09:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.0,
-          "tags": [
-            "Pause / Ban",
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-09-03T09:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
     "Tennessee": {
       "articles": [
         {
-          "title": "More Tennessee, Georgia towns hit pause on rural data centers as power, water worries grow - newschannel9.com",
+          "title": "More Tennessee, Georgia towns hit pause on rural data centers as power, water worries grow - WTVC",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZUZwZGtvRlZoaGpTNUFZVXFYUVg1d01venozeVFTQ2Eya0VmU0o5MmNBU0pVT1JIX0ZzV0RmSmNjVTdOdmt0V3dxNy1fY09iM0JIUW10UzZweXdTVGxqN210dFpDaHpJc2ZJYi1jdU1vdzN1U0dRcVBnRjh5YWpZQ1hCOFE5OVRYSFRCWTF0N25fWm1jY2xHTHpCOTVPVy1qQUFrdkRRLWNDTFNxd1BLUHZzdHN0M0h3NWJxT3BSUHg0Zw?oc=5",
           "domain": "newschannel9.com",
-          "publisher": "newschannel9.com",
+          "publisher": "WTVC",
           "seendate": "2026-07-16T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 13.5,
@@ -5276,10 +5281,10 @@
           "date_display": "2026-06-23T07:00:00+00:00"
         },
         {
-          "title": "Data center developer sues metro government over Tennessee zoo-area permit freeze - thecooldown.com",
+          "title": "Data center developer sues metro government over Tennessee zoo-area permit freeze - The Cool Down",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdXBRb2FzSkgtTUxHOEx3YVpPQ1UyUW9Gdm5qLXpTazZXQzZ1SG1LMlo5eXo3cmVVM0UxcGNLNGM5S2hXbnozLVRGWjhNSjVkVkY1dEVudWJwVmp3aWZjNzBYY2t2TGxJUUR1dkhqZlRNb19RLTNweURNX3NnMzN6NTJGUF8xLVpfUW5na2U2RXE?oc=5",
           "domain": "thecooldown.com",
-          "publisher": "thecooldown.com",
+          "publisher": "The Cool Down",
           "seendate": "2026-08-17T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -5321,10 +5326,10 @@
           "date_display": "2026-04-28T07:00:00+00:00"
         },
         {
-          "title": "New Tennessee law limits how utility improvements for data centers can be paid for - WATE 6 On Your Side",
+          "title": "New Tennessee law limits how utility improvements for data centers can be paid for - wate.com",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmhqUEpfOGpLOHQxdXpYdmx6MHhfamUydk02UjRGcGJGOG9qLUdHVXFDU1NpSGhvR09lNTM3Ti0zT0FKQTFDZng3REtDQXQ5cl9RMTg4MFN5Qk9KV3AtZ0RnNmE0WExpVzV0M2NveGZlYU9IWDd1dV9YOFZnSDNuZnJwMElueExCSGx2ZzVn0gGTAUFVX3lxTFBHcFJ1UXVYOE1Cbk1XQXZ1MVFJaTlJdFFQSGJrOVQ3RDgtbFF5X1FaSk42U3AyY3RVY0tvWFFWaHZ5TURzODdOS3Jiemx3cWFCNVhmb0F2aXI1TElGNEdEa0FPVjM0Yi02WTczcEhYZ1dHel85SVNINXpDRzhaSmMxUGNTWkZ1QlUxVGZvaVR3eDlKTQ?oc=5",
           "domain": "wate.com",
-          "publisher": "WATE 6 On Your Side",
+          "publisher": "wate.com",
           "seendate": "2026-05-26T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -5363,8 +5368,8 @@
           "date_display": "2026-07-08T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -5459,10 +5464,10 @@
           "date_display": "2026-08-21T07:00:00+00:00"
         },
         {
-          "title": "Data centers are coming to Texas. What could it mean for your electric bill, water and neighborhood? - Click2Houston",
+          "title": "Data centers are coming to Texas. What could it mean for your electric bill, water and neighborhood? - click2houston.com",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRTZXMWFyTWRSMnRwanJZbmJwc0VlOUFfQ2ZYXy03V1JwRTV5WDhiN1E0TTRHbXFuOXAyZURCVzFjTWYtdzlqT3lfODlBQ0w0cGgwU05IbFlLUVhjX2M4LWY2VkoyNnNkSFRISS1BaWkwMEJLUWxtTndiNzQta2cyMERQZHdUSFhkSjZkUUtOU2J4c1Uta2dLbFdNRWdvMm9WYW1vSXdrTWpVdDE4eDdGUkpNaC1zR3kyLU45UmdxOG1mNUhDbkhiUDBvMFVib2xoRTBxaWJ0aHd1SVJIZTFyNTQwZi14UEk?oc=5",
           "domain": "click2houston.com",
-          "publisher": "Click2Houston",
+          "publisher": "click2houston.com",
           "seendate": "2026-09-11T16:53:37+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -5489,8 +5494,8 @@
           "date_display": "2026-09-14T22:57:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -5525,21 +5530,6 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-05-19T07:00:00+00:00"
-        },
-        {
-          "title": "‘Protect the water, the air, the land’: Hundreds demand halt on Box Elder data center plan - Utah News Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQldpNVJoMGhaT1J1LThnQng4RXVZWkhfUUVqNFJ1THlqQVRPa2ZnWnZNcWowQ2lDeV9SOUxUWnNDeVI5ejkzQ2JDOVZXZ3N1dkYyd01mMmV3eDYyVkhWd1RWSXJ2dnNJR1RXXzdDYnNNWHlLUDhtZWVBY0VrX19oRTZ4Zi1xTmxkbUQxcXNoT1h5Z3U2Y1E?oc=5",
-          "domain": "utahnewsdispatch.com",
-          "publisher": "Utah News Dispatch",
-          "seendate": "2026-05-23T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 12.0,
-          "tags": [
-            "Pause / Ban",
-            "Water"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-05-23T07:00:00+00:00"
         },
         {
           "title": "Second water right application for Kevin O’Leary’s Utah data center project withdrawn - The Salt Lake Tribune",
@@ -5586,36 +5576,50 @@
           "date_display": "2026-05-14T07:00:00+00:00"
         },
         {
-          "title": "Data center: New water rights law gives less weight to pushback citing broad impact - Utah News Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYUdXWkx4LW9DVzZpRjZMWFNxcnFKUXlTSjdZb3ZjbWhVUHloeDYtc3M0NTV6dmNXM2tRakstU1dnLTN3aUhyellvOFp4UmNpanBkN0xBTUxRZVpTT2UteXhsbDVlcnFIUnZRbUt5Q2RoelFZaHBCcGFnX01KbU1sa09XbUhHWk4zQUhWdEVqLXJsbVlpWEJrZjNwVnd3Ym1JX2Z3UkNIamx2RkczOU9Ja0E1emp4UQ?oc=5",
-          "domain": "utahnewsdispatch.com",
-          "publisher": "Utah News Dispatch",
-          "seendate": "2026-05-18T07:00:00+00:00",
+          "title": "Kevin O’Leary-backed data center is still coming for this Utah county, even after its commissioners passed a moratorium - The Salt Lake Tribune",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01ekJSeTZuSy1uZ29JUTdIbWs5b0VRZ1hqZmJ0TjE2QnVSaGU5WVhJNjNaczdRVm5DVXNwdmtMYmdRXzRnQ1hzYVhhUGFPUjhSTVBMTlFGZERxRk1JWU1XMnpXY09UMHVTRm1LdkNJdU54YTA?oc=5",
+          "domain": "sltrib.com",
+          "publisher": "The Salt Lake Tribune",
+          "seendate": "2026-06-10T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
           "tags": [
-            "Water"
+            "Pause / Ban"
           ],
           "tier": "Discovery",
-          "date_display": "2026-05-18T07:00:00+00:00"
+          "date_display": "2026-06-10T07:00:00+00:00"
         },
         {
-          "title": "Will Utah data center use 16B gallons of water and span almost 3 Manhattans? What to know - Snopes",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0dFhRcGp6blBlc3NhdUtKUFh3NTFTM0RpRDZhS3kxZjl4cHdzOVBsT2NEMC1xV1lwYTFfdWhydXVCY3dYMVlGaG8tMFRXMWJrLUx2eEhBZFlJa0tFdTU1LVYwZVVBb2VEU1dmWENCZlJvRXBSMkdTeVdfYTY?oc=5",
-          "domain": "snopes.com",
-          "publisher": "Snopes",
-          "seendate": "2026-06-06T07:00:00+00:00",
+          "title": "Here’s how much water Kevin O’Leary’s partner says data center will use and what it could mean for Utah - fox13now.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUV4WlJ4NHl1LWtpSXBoYTE2Y2tpaGxFWE5pMEFXclJXZ3RYRmd3OC1oNmRPRzhROWlkQmVuVmFYOXpjNHF1YXFXRWEyMUFkMm5fbDJQYlA4SUhlSW5uaEp3Z183T2R4R3RYY2FKQlc4WVVrVDR0d0tydE5JOXpULW81N2dGem5PWGd4VGVFdmRiOGNKendsS1ZMX05tRVRsYkFtMUJ0WFEzbFBTSkc4bS05bHVObFZQN0p4Wkw0cmtocnROQXozbjhDeFcxS0FCLU9MSERpWE80X0ZQQkJNMXMyUkY?oc=5",
+          "domain": "fox13now.com",
+          "publisher": "fox13now.com",
+          "seendate": "2026-07-16T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
           "tags": [
             "Water"
           ],
           "tier": "Discovery",
-          "date_display": "2026-06-06T07:00:00+00:00"
+          "date_display": "2026-07-16T07:00:00+00:00"
+        },
+        {
+          "title": "Kevin O'Leary's Utah Data Center Will Generate Its Own Power - Environment+Energy Leader",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONGhJVTBvZ0MyQmtYRFlMRTFxLVNhRGVqb056VjhIT19Kb1QyT2FxdTNtUUFHdEd4MG5DR2kxQ0MwOEIwYnNvcmt0YlB4czdVSVlNUXRxd2U4LV9vclpQc21EMFdBUXlxLWlQZkoyS2JaQmN3ejJNUllGUkt6NDBkUzNyZnpmUG9nMTl2aGgyYjM1UUxISFdGcEs1a1BVcHRhdkRRYndVUVZJTFFsNUQzbjh3dw?oc=5",
+          "domain": "environmentenergyleader.com",
+          "publisher": "Environment+Energy Leader",
+          "seendate": "2026-07-22T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Power"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-07-22T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -5708,20 +5712,6 @@
           "date_display": "2024-11-23T08:00:00+00:00"
         },
         {
-          "title": "Sanders Pushes for Moratorium on New AI Data Center Construction Amid Growing Backlash - Common Dreams",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxUm9CbmtnVmw2NENXNkY1bW5lT3FEN1J5N2JjXzFKV1BoaURRalh3SWltUHR5blZlMDN3XzlZZW5JaGNWZUdNR3E1aER6WnM4RTU0cFctVTB5OWtjcFBFdjczNGNBbVRKUC13NzhB?oc=5",
-          "domain": "commondreams.org",
-          "publisher": "Common Dreams",
-          "seendate": "2025-12-17T08:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 8.5,
-          "tags": [
-            "Pause / Ban"
-          ],
-          "tier": "Discovery",
-          "date_display": "2025-12-17T08:00:00+00:00"
-        },
-        {
           "title": "Royalton voters to decide on moratorium for AI and crypto data centers - Valley News",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSmZtVmhUTDc5OFFGZ3Y3cEFkYjM1YlN3c1JGUXZ4dTNsRl9PUktJajFFV2Q3b1dnWHhaLThsaFhNT3hhQkxLWEE1N1BNN0haU0dXZGd2R0xlQ09WVU1ZVXJHYTFfTEwzem5N?oc=5",
           "domain": "vnews.com",
@@ -5734,21 +5724,35 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-02-08T08:00:00+00:00"
+        },
+        {
+          "title": "Opinion | A federal moratorium on data centers is Bernie Sanders’ worst idea yet - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWDd4cHJrZDJlMldFYmU3S2swRXB6U2hPcXdHUGNGUjBqeEdRVUhIczdmTGstVmpub0ZpOVU3M09wRkZlY2dtYUZLN08xc0FPQ2puMHNSaG1zUV9EYlprMTdhaVBPWDl4Y1ZQcEFmOEtBcGc4Q3hsRkJ4Y3p4Rmc0VGdUVmpoTHoxQ2hrMTJjVjdISUU?oc=5",
+          "domain": "washingtonpost.com",
+          "publisher": "The Washington Post",
+          "seendate": "2026-02-11T08:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 8.5,
+          "tags": [
+            "Pause / Ban"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-02-11T08:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
     "Virginia": {
       "articles": [
         {
-          "title": "Power-Bill Fears Drove Virginia’s First-In-Nation Data Center Tax - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZYVkRReU9jUlNZZjlfaEhrNGlXU21sUFFHT0ROcE95Q3U3T1JUSnFwUU81TWViUi0wNDJmY1NyMWhlWVBVMmZZYVlJX0FFZ2Q4QV9mRzNSNEZsSGw1eExHTXNacW9jZV9WNVZaSTVwQ3VhSzBaR0hJMGFGYXA2Z05QUUJzT0pnZWhHVGlfcWo2eVB0Sl9ad0RObEFpa0ZkWnA5MmtNMjJNazN4RmVGWnUzc0MyU0dHNW1HTw?oc=5",
-          "domain": "forbes.com",
-          "publisher": "Forbes",
-          "seendate": "2026-07-13T07:00:00+00:00",
+          "title": "Virginia SCC weighs Dominion data center transmission cost allocation - Utility Dive",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkhWRkNWQW1OVndJd0xsZUdEWWhPUlV5U2dxZ05IWGV3MnZrdjJXVTFaQ3pfTmNLc1ZpRThDUUYxT3lPMldJUnI1dnZ0UDZidlBnNjJlRzNRYTJ2emd6OU1oTlk0UUVPNTM2WGNPOGRJV0dsUmhPVks1M1pvME9vZXlmQl9iWnRDRGRUaXplT25YYjd6dUNSS2IwT0dQRmMxYjU1X1RR?oc=5",
+          "domain": "utilitydive.com",
+          "publisher": "Utility Dive",
+          "seendate": "2026-07-15T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
           "tags": [
@@ -5756,7 +5760,7 @@
             "Economics"
           ],
           "tier": "Discovery",
-          "date_display": "2026-07-13T07:00:00+00:00"
+          "date_display": "2026-07-15T07:00:00+00:00"
         },
         {
           "title": "Virginia senator calls for data center moratorium - WRIC ABC 8News",
@@ -5774,11 +5778,11 @@
           "date_display": "2026-07-31T07:00:00+00:00"
         },
         {
-          "title": "Virginia state senator calls for data center moratorium - wtkr.com",
+          "title": "Virginia state senator calls for data center moratorium - WTKR",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3N4UDZUVlhDSW8yYk1acEpGLXgzczFsU1hCSlhhUkwyLV96Y05Wa2JsSTJLWVZwSUhoWGVjcm9JQ3JMazJvSnU1cU1DUFBPMWRUX1ZuWk1yUFpEQl9WLTdtRGs3ZFRNV3VyZWhGdGdQeE9JcGVUbnlUd2R1Sm1PRWN6WmJlWXZs?oc=5",
           "domain": "wtkr.com",
-          "publisher": "wtkr.com",
-          "seendate": "2026-08-03T07:00:00+00:00",
+          "publisher": "WTKR",
+          "seendate": "2026-08-02T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
           "tags": [
@@ -5786,7 +5790,7 @@
             "Politics"
           ],
           "tier": "Discovery",
-          "date_display": "2026-08-03T07:00:00+00:00"
+          "date_display": "2026-08-02T07:00:00+00:00"
         },
         {
           "title": "Virginia revives data center tax fight as lawmakers weigh $600 million power-use levy - Yahoo Finance",
@@ -5848,10 +5852,10 @@
           "date_display": "2026-06-01T07:00:00+00:00"
         },
         {
-          "title": "Western Virginia Water Authority addresses concerns and misinformation surrounding Google Data Center water usage - WSLS",
+          "title": "Western Virginia Water Authority addresses concerns and misinformation surrounding Google Data Center water usage - wsls.com",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPanFneWZlSTlYZ2ZrVkMwNFYyMWVyRzgwd3lvaHNJS2hPb3dvVFF2bmZmejNuVXlHTUFWUndWMzVXM1Y5SENfQlU3eV9sMHZ3WnFkTzdTaENFbEs0S0xvUW9aM2tpNWw2OUlITURzOGlpWVdEd1VjM3R0cGVfOEJpNTdwbTVYaVNVeHdUVFNkVk14dEF0cUpEdXZucXFFRWFlb1hWVzhQQnc4SmxwUnoyN2RaRFRFcFFMNldSa1c4dGFPQ3BGMzF3RWpuNHlTdXgxR2JZY2lvUzQtMjlfMUNRY0dyaWlkbFVLZldpV3ZB?oc=5",
           "domain": "wsls.com",
-          "publisher": "WSLS",
+          "publisher": "wsls.com",
           "seendate": "2026-07-20T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -5862,8 +5866,8 @@
           "date_display": "2026-07-20T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -5900,10 +5904,10 @@
           "date_display": "2026-07-21T07:00:00+00:00"
         },
         {
-          "title": "State regulators deliver massive setback to Port Washington data center power lines - WTMJ",
+          "title": "State regulators deliver massive setback to Port Washington data center power lines - wtmj.com",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSUtRQ0lKa2RTYy0tR0N2eFlfUU5oTFlHVWdEQjdkZDhadVJfd0h2Ymhad2NVQWRuNjd6MGVkMktXeFB1Ry1MOTdMb0ZWbk44UTgyZzlyUlRlc0ozWUlMeWZMOS1QeW4tbzRaMTZDUkJKZFRQOEx4cXhBeG1JbjFxYzZfVDJSNUUyeXZtTkdZaUFYRDZsNnNSV1BkX3pHWllvV2t0b0xiS0NaODg2SVJiVGo3NmpoaDlJ?oc=5",
           "domain": "wtmj.com",
-          "publisher": "WTMJ",
+          "publisher": "wtmj.com",
           "seendate": "2026-08-07T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -5913,6 +5917,21 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-08-07T07:00:00+00:00"
+        },
+        {
+          "title": "$11.4M water main project planned to serve Vantage Data Centers site in Port Washington - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSHhDQ1B6bGZIX1V4bXZTeWl4ZFNCOWJ0NXgtejV6b2RMYUh2VDhEMzNkLXU0c2pqQ0dFUW9uWEdCc2V2RUo0ZVJkZ21OWnM5WG0yRjRlRHIyc3prSk9mVjljS0lCWGRtQmo5WElZdHpCMjRGTnViUGFVTnFEOGRhcXozZ0NwQmp1VUhSV0RkdEtTQXBVZ0wxVndKWlg5dw?oc=5",
+          "domain": "bizjournals.com",
+          "publisher": "The Business Journals",
+          "seendate": "2026-09-09T11:40:00+00:00",
+          "provider": "Google News RSS",
+          "score": 12.0,
+          "tags": [
+            "Water",
+            "Project"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-09-09T11:40:00+00:00"
         },
         {
           "title": "New York becomes first state to impose data center moratorium - The Washington Post",
@@ -5927,20 +5946,6 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-07-14T07:00:00+00:00"
-        },
-        {
-          "title": "When can a power company take your land for a data center? - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hac3hveUc4anFfb1JDazFWdm01S2taNWYteVJUd1g5UVZwTzZnMWRWeHRkWEZxN3RBNmlHODczQjcxd0tjUHhOUWluYkZBSEtVMnRjMFFnWEk3Q2JpOUZuNlF6dVkweFdqekJOSFZOZ3ViUXA3aktEaHhBdTEwR1VNZFFpNUNpVVV4REdoMVdMU1R1V2M0YzNZeE9SUmZ4OUtaMGduUUgzVDQ?oc=5",
-          "domain": "washingtonpost.com",
-          "publisher": "The Washington Post",
-          "seendate": "2026-07-16T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-07-16T07:00:00+00:00"
         },
         {
           "title": "Loudoun County considers putting pause on data center development - NBC4 Washington",
@@ -5985,8 +5990,8 @@
           "date_display": "2026-07-28T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -6022,6 +6027,20 @@
           "date_display": "2026-08-11T07:00:00+00:00"
         },
         {
+          "title": "WV DEP says Fundamental Data controls site of proposed Tucker County data center, power plant - West Virginia Watch",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNmFCS0ltX0wtUGhmZ2V2TTFwNFByZE9tZ1JwV0JVaUktWF8yaDU0SklqMkgwdy1LY0drOTNEYmZOUlc4RkRXV2lZOFN5U09JM0lYa2V3UF9zbTM2eXp0Qlh4aVpwa1EyazM0X1lWeVdrX05Xb1Qycnl0X3ZRTm9IRVltMzRvZHd0QWRIbzZLTE9NanBiYWtTM3ViWF9UY2lSTTlhNGNmVGRMNWlLTmFuMS1PcVo4ODZRVkxDZlRBTmNlbXQ5RTkzR1dNd29paWc?oc=5",
+          "domain": "westvirginiawatch.com",
+          "publisher": "West Virginia Watch",
+          "seendate": "2026-08-17T07:00:00+00:00",
+          "provider": "Google News RSS",
+          "score": 10.5,
+          "tags": [
+            "Power"
+          ],
+          "tier": "Discovery",
+          "date_display": "2026-08-17T07:00:00+00:00"
+        },
+        {
           "title": "Data center announcements in West Virginia spark concerns over water usage, transparency - WCHS",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjZudlkyTVVLblF1dzlWczRTVVhCbnA5Qjl0ZGFKZW9Yenk5dFA0UDcxQkZtUkhoWGxKb3lSLTc0UTRzQVo1RWtXSlY2ZktnUWFJZlBwTG5EUTlUT0pSVkl0VVcyUlFpVDdRN1lJU09fUjBENy0wakJ1dGVvY1FudVp5bVVMUFZqeVRNY1NGalJacnVUbGF5M2hUcnhzMkF1NTVyTzFmN3dCVGpLd21xVldOOXd6NktF?oc=5",
           "domain": "wchstv.com",
@@ -6034,20 +6053,6 @@
           ],
           "tier": "Discovery",
           "date_display": "2026-08-17T07:00:00+00:00"
-        },
-        {
-          "title": "Contested 5-GW Ridgeline Gas, Solar, and Data-Center Complex in West Virginia Clears Site-Control Question - POWER Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN1ZXYXYzS19oUWZiWjF5RndPbWR1REczZzRreUJORFJqRnAwOVFaZ0tXTm5Rd0FRTTR6a2p5T2NyaF9VelFBVEw5SXhJRW40SmtjMUdXWnpienZnMjlYZWtQQzliNlhxVFRzRnhMN1FmZkE1WVhmNFphbU9JcHRzZldwN3N4MWtST0ZBZ3NSZEdueUF2dWhSMVJGb1NpNkpBTFFGc1hOaTBKNTByeXB4LVdab0cyc21YbHBrc3BHYkk3cnc5VFlSM2dB?oc=5",
-          "domain": "powermag.com",
-          "publisher": "POWER Magazine",
-          "seendate": "2026-08-18T07:00:00+00:00",
-          "provider": "Google News RSS",
-          "score": 10.5,
-          "tags": [
-            "Power"
-          ],
-          "tier": "Discovery",
-          "date_display": "2026-08-18T07:00:00+00:00"
         },
         {
           "title": "Data center announcements in West Virginia spark concerns over water usage, transparency - National News Desk",
@@ -6064,10 +6069,10 @@
           "date_display": "2026-08-18T07:00:00+00:00"
         },
         {
-          "title": "West Virginia Intermediate Court dismisses two appeals tied to Tucker County data center permits - WV News",
+          "title": "West Virginia Intermediate Court dismisses two appeals tied to Tucker County data center permits - wvnews.com",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbFJhaWpFSURCNExoYnp4YjZBc0lwYlU2Mk1uVUpzdm5laDBRTGVNYl9sNURTemszVU1XTElNRG1RRTZxeEM2YUMyLVR4Z3FPU0k1UTNXR0w1NWFkWHhyZjdnMGVFclNTOWhueHZodWwtZG15akZrN3ZkaUc5YzRhVDQ5MWN1TU8wYVpiNWhnWW9pcVRyM25pZFBUZTVYYlhaRTJRbmswS1RGb2o2OC1XUVoxRTV2ZUZMZFJqejdBa1UyRTFPaFNRak5xbExYM1JIZnN0R0RYdVMxaXNBeGxQRkZiMU1hcnNRRDhNcm90ZFoxczBCWjFXSGthb2s0M2l5cERKUTRNallnNk1LX0E?oc=5",
           "domain": "wvnews.com",
-          "publisher": "WV News",
+          "publisher": "wvnews.com",
           "seendate": "2026-08-26T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -6096,18 +6101,18 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSEYxUGpnX2lRMXZvbVZaWDVwZ3NocVl4RkhDRDJEX2hHTWI5NUtkYlh3RHBNdW43YjRwTGtheF9ZYUxiblVGbEtNVzBSR3lSWjZkY2JQdmR4NHAwM3dQdEFVWlNYWnFmazJSTVFadG1vNjBsUmNFdVVENDJGUEZWdzV2OEhwQk80ZTBQV0VGU3JrdzlBZDUzYVBpQnVYT21lNkR3cTItcGtBT25QTE5zeVFfU1NFREhpSTVZVVIxZ2ZsME9XR3lNLWExcUtMQ1Z2eHJEZg?oc=5",
           "domain": "westvirginiawatch.com",
           "publisher": "West Virginia Watch",
-          "seendate": "2026-09-08T17:22:25+00:00",
+          "seendate": "2026-09-08T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
           "tags": [
             "Project"
           ],
           "tier": "Discovery",
-          "date_display": "2026-09-08T17:22:25+00:00"
+          "date_display": "2026-09-08T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -6159,10 +6164,10 @@
           "date_display": "2026-08-10T07:00:00+00:00"
         },
         {
-          "title": "Oracle drops Wisconsin data center power transmission cost lawsuit - The Center Square",
+          "title": "Oracle drops Wisconsin data center power transmission cost lawsuit - thecentersquare.com",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1F2VUJQOUNFUUc0dEFmMmZIRjB4TFRyQV9JWFNnWklIVS1HNENITVA4Ty13cTVPaEplb3oxbG5ZOVFITHFUYW9RNmhzSzFqWkdsUmg5MThiclZVZnpVQWFxSy13WXl5dmVsQXhEMkNPeTdST0lORlBPT29mSG9rNEpydl9nR3k0b1F4T0lOWElRdXpZR0HSAZsBQVVfeXFMTktGaVVRYmtKZnR5a3prdFUtLWpKLURZMzVIeWJVU3pGcUQ1WjhyQURVYlBWTzI4RzhwRFN2WFZUSGNMMkFjTlVGUnQ4U3JfRy1OTFZxUlhYVjBqY2ZEandubW1uOWtVcGZkVmo1RXFtTHV0aVN3US1Zc3d1cElvWFU3VVRHRkxKc0V6N0hnMm9WZXZsdHowUVVqTGc?oc=5",
           "domain": "thecentersquare.com",
-          "publisher": "The Center Square",
+          "publisher": "thecentersquare.com",
           "seendate": "2026-08-18T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -6189,10 +6194,10 @@
           "date_display": "2026-09-10T15:34:00+00:00"
         },
         {
-          "title": "How much water do AI data centers really use? Wisconsin researchers look for answers. - WPR",
+          "title": "How much water do AI data centers really use? Wisconsin researchers look for answers. - wpr.org",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XQ3FQU2QxOE85ZDlhcHZ4ZS1FNkZXanRKR2ZyNWphcWtqSDJ2LTNnYXJzWVpGX25NS2JOeER4Z0s4WDA4bXY0YkJmZ1RrZnlZdlZhRGhxTGtSRldyQ3REdy1jNXdRaFRQMEFEdnVxUUkzTDA?oc=5",
           "domain": "wpr.org",
-          "publisher": "WPR",
+          "publisher": "wpr.org",
           "seendate": "2026-05-22T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -6203,10 +6208,10 @@
           "date_display": "2026-05-22T07:00:00+00:00"
         },
         {
-          "title": "Superior joins growing number of Wisconsin communities to pass data center moratorium - WPR",
+          "title": "Superior joins growing number of Wisconsin communities to pass data center moratorium - wpr.org",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOS1aeUlqYVNIaVpmcHVOWTFGUGpKR2prNUNSWFFsXzdUTlNSczA4NGMxR2pfbmVISVBOQWFoMnZfT1NHNm5mZ0xyYjRRdzMwVmx4SXJ1M0RPNmtQS3pzeXo3ajk1ZEhmaG1fa1VudXRfTm9icFpSOHZ1Wmh3ZXY1dGo2ZkZDRFFFVkw4dzN6STh3cG1RajF2UVIzZWpadEJudXpDYW9vQVdsMGVvLXF3?oc=5",
           "domain": "wpr.org",
-          "publisher": "WPR",
+          "publisher": "wpr.org",
           "seendate": "2026-06-17T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -6231,8 +6236,8 @@
           "date_display": "2026-07-06T20:37:33+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     },
@@ -6269,10 +6274,10 @@
           "date_display": "2026-08-28T20:26:00+00:00"
         },
         {
-          "title": "Wyoming judge dismisses challenge to data center permit amid water, safety fears - thecooldown.com",
+          "title": "Wyoming judge dismisses challenge to data center permit amid water, safety fears - The Cool Down",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2Rtc2IzTXVIdGZhYmlOcEUzRVNQekFYdEg5cjdGUlZzUUI1NXp1WUtZV1Y5amJ2MHRaNndiaVJUQzY1ZUhqcW1IMHpkV3ppeXlzRzlnVFNXaEp5cEpvU2c2NjFIeVdwSjJlLXd2Z2x2Tm1GMUFnU3YzMGh4aFUzRFFfNDBSUm9WVGgyWWhqVEl6am00TjhV?oc=5",
           "domain": "thecooldown.com",
-          "publisher": "thecooldown.com",
+          "publisher": "The Cool Down",
           "seendate": "2026-08-31T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 12.0,
@@ -6315,10 +6320,10 @@
           "date_display": "2026-05-27T07:00:00+00:00"
         },
         {
-          "title": "Amid growing concern, data center developers insist they won’t stress Wyoming water - WyoFile",
+          "title": "Amid growing concern, data center developers insist they won’t stress Wyoming water - wyofile.com",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHdHRlcxV3BRZ25EV3Y3VjR4RG8yYTloLW5wMXhzdmExS0ZkVmZzeS1ySDE0M1hjdHQ2UkctN0JyRWZvSGtlM1JfRzRBd0huVGJhN0w2TmJOZ0F3TmFzTml5d1p4S19DU2ZCNnJDRFRiUUNnc01Id0dRZmdwNDhOVUFEaktUNU9iYnBCSFB2QjVPM1FiNV9rUnB5SC1oQVNLYzNKSA?oc=5",
           "domain": "wyofile.com",
-          "publisher": "WyoFile",
+          "publisher": "wyofile.com",
           "seendate": "2026-05-19T07:00:00+00:00",
           "provider": "Google News RSS",
           "score": 10.5,
@@ -6357,8 +6362,8 @@
           "date_display": "2026-05-27T07:00:00+00:00"
         }
       ],
-      "refreshed_at": "2026-09-16T16:52:15.573845+00:00",
-      "refreshed_at_display": "Sep. 16, 2026 16:52 UTC",
+      "refreshed_at": "2026-09-16T21:16:48.062669+00:00",
+      "refreshed_at_display": "Sep. 16, 2026 21:16 UTC",
       "provider": "Google News RSS",
       "stale": false
     }
