@@ -3,6 +3,12 @@ name: Refresh data and deploy monitor
 on:
   push:
     branches: [main]
+    paths:
+      - 'index.html'
+      - 'scripts/**'
+      - '.github/workflows/**'
+      - 'README.md'
+      - '.nojekyll'
   schedule:
     - cron: '17 */6 * * *'
   workflow_dispatch:
@@ -13,12 +19,13 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: false
+  group: data-centre-monitor-pages
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -28,7 +35,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Refresh 15-day discovery data
+      - name: Refresh strict 15-day discovery data
         run: python scripts/update_live_data.py
 
       - name: Preserve refreshed data for the next run
@@ -36,7 +43,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/live.json
-          git diff --cached --quiet || git commit -m "chore: refresh live monitor data"
+          git diff --cached --quiet || git commit -m "chore: refresh live monitor data [skip ci]"
           git push
 
       - name: Configure Pages
